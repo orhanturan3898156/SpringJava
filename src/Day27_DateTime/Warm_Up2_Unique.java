@@ -28,7 +28,16 @@ public class Warm_Up2_Unique {
             }
 
         }
+        System.out.println("========================================");
 
+        int[] arr2 = {3, 3, 5, 4, 6, 6, 7, 8, 9, 9};
+
+        uniqueElements(arr2);
+
+
+        System.out.println("========================================");
+        double[] arr3 = {3, 4.1, 3, 4, 4, 2.4, 6};
+        uniqueElements(arr3);
 
     }
 
@@ -48,6 +57,26 @@ public class Warm_Up2_Unique {
             }
 
         }
+    }
+
+    public static void uniqueElements(double[] arr) {
+
+        for (double each2 : arr) {
+
+            int count = 0;
+
+            for (double each : arr) {
+                if (each == each2) {
+                    count++;
+                }
+
+            }
+            if (count == 1) {
+                System.out.println(each2);
+            }
+
+        }
+
     }
 
 

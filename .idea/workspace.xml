@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day22_Loops_and_Arrays_Practice/Nested_forEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day22_Loops_and_Arrays_Practice/Nested_forEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Dates_Formatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Dates_Formatting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Warm_Up2_Unique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Warm_Up2_Unique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day27_DateTime/Warm_Up2_Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day27_DateTime/Warm_Up2_Unique.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +33,46 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Warm_Up2_Unique">
+  <component name="RunManager" selected="Application.Summary">
+    <configuration name="Dates_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day27_DateTime.Dates_Formatting" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day27_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Local_Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day27_DateTime.Local_Date" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day27_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Summary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day27_DateTime.Summary" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day27_DateTime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Warm_Up1_Find_Minimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day27_DateTime.Warm_Up1_Find_Minimum" />
       <module name="SpringJava" />
@@ -59,32 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Warm_Up_Unique_Value" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day23_Methods.Warm_Up_Unique_Value" />
-      <module name="SpringJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day23_Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="firstadd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="firstadd" />
-      <module name="SpringJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Summary" />
+        <item itemvalue="Application.Dates_Formatting" />
+        <item itemvalue="Application.Local_Date" />
         <item itemvalue="Application.Warm_Up2_Unique" />
         <item itemvalue="Application.Warm_Up1_Find_Minimum" />
-        <item itemvalue="Application.Warm_Up_Unique_Value" />
-        <item itemvalue="Application.firstadd" />
       </list>
     </recent_temporary>
   </component>
@@ -302,7 +323,56 @@
       <option name="project" value="LOCAL" />
       <updated>1587652272860</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="commit">
+      <created>1587654100242</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1587654100242</updated>
+    </task>
+    <task id="LOCAL-00031" summary="commit">
+      <created>1587654152433</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1587654152433</updated>
+    </task>
+    <task id="LOCAL-00032" summary="commit">
+      <created>1587655338567</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1587655338567</updated>
+    </task>
+    <task id="LOCAL-00033" summary="commit">
+      <created>1587656977033</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1587656977033</updated>
+    </task>
+    <task id="LOCAL-00034" summary="commit">
+      <created>1587658020860</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1587658020860</updated>
+    </task>
+    <task id="LOCAL-00035" summary="commit">
+      <created>1587658069193</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1587658069193</updated>
+    </task>
+    <task id="LOCAL-00036" summary="commit">
+      <created>1587660672377</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1587660672377</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -313,10 +383,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="351" y="3" key="CommitChangelistDialog2" timestamp="1587654099986">
+    <state x="362" y="51" key="CommitChangelistDialog2" timestamp="1587660672078">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="351" y="3" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587654099986" />
+    <state x="362" y="51" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1587660672078" />
     <state x="351" y="26" key="CommitChangelistDialog2/0.23.1440.803@0.23.1440.803" timestamp="1587609526910" />
     <state x="351" y="3" key="CommitChangelistDialog2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587614458440" />
     <state x="351" y="26" key="CommitChangelistDialog2/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1587610631758" />
@@ -324,31 +394,31 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1587653958244">
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom" timestamp="1587669754742">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587653958244" />
+    <state width="1398" height="197" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587669754742" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587651621098" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877945" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1587653958242">
+    <state width="1398" height="197" key="GridCell.Tab.0.center" timestamp="1587669754739">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587653958242" />
+    <state width="1398" height="197" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587669754739" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587651621095" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1587609628539" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877942" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1587653958241">
+    <state width="1398" height="197" key="GridCell.Tab.0.left" timestamp="1587669754737">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587653958241" />
+    <state width="1398" height="197" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587669754737" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587651621094" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1587609628538" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877941" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1587653958243">
+    <state width="1398" height="197" key="GridCell.Tab.0.right" timestamp="1587669754741">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587653958243" />
+    <state width="1398" height="197" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587669754741" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587651621097" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877944" />
@@ -356,10 +426,10 @@
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="229" y="60" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1587608807179" />
-    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587654102221">
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2" timestamp="1587660674242">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587654102221" />
+    <state x="320" y="157" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1587660674242" />
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1587609530678" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587614464231" />
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1587610633878" />
