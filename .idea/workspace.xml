@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Dates_Formatting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Dates_Formatting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Warm_Up2_Unique.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day27_DateTime/Warm_Up2_Unique.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day27_DateTime/Warm_Up2_Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day27_DateTime/Warm_Up2_Unique.java" afterDir="false" />
-    </list>
+    <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
