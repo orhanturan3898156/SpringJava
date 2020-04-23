@@ -51,10 +51,6 @@ public class Library {
     }
 
 
-
-
-
-
     public static String removeDuplicate(String str) {
         String result = "";  //AB
 
@@ -68,15 +64,16 @@ public class Library {
         return result;
 
     }
-    public static int frequency(String str1, String str2){
+
+    public static int frequency(String str1, String str2) {
 
 
-        int count=0;
+        int count = 0;
 
-        while (str1.contains(str2)){
+        while (str1.contains(str2)) {
 
             count++;
-            str1=str1.replaceFirst(str2,"");
+            str1 = str1.replaceFirst(str2, "");
 
 
         }
@@ -84,23 +81,48 @@ public class Library {
         return count;
 
 
-
-
     }
-    public static String frequencyOfChar(String str){
+
+    public static String frequencyOfChar(String str) {
 
 
         String NonDup = Library.removeDuplicate(str);                //ABC
-        String result="";
+        String result = "";
 
-        for(int i=0;i<NonDup.length();i++){
-            String ch =""+ NonDup.charAt(i); //A
-            int num=Library.frequency(str,ch);
-            result+=ch+num;
+        for (int i = 0; i < NonDup.length(); i++) {
+            String ch = "" + NonDup.charAt(i); //A
+            int num = Library.frequency(str, ch);
+            result += ch + num;
         }
 
         return result;
 
+
+    }
+
+    public static int frequency(String str, char ch) {
+        int count = 0;
+        char[] arr = str.toCharArray();
+        for (int each : arr) {
+            if (each == ch) {
+                count++;
+            }
+        }
+        return count;
+
+    }
+
+    public static String uniques(String str) {
+        String result = "";
+
+        for (int i = 0; i < str.length(); i++) {
+            int num = frequency(str, str.charAt(i));
+            if (num == 1) {
+                result += str.charAt(i);
+            }
+
+        }
+        return result;
 
 
     }
