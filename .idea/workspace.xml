@@ -34,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.test1">
+  <component name="RunManager" selected="Application.test2">
     <configuration name="Date_Time_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day28_Day_and_Time.Date_Time_Formatting" />
       <module name="SpringJava" />
@@ -50,19 +50,6 @@
     </configuration>
     <configuration name="Date_and_Time_Together" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day28_Day_and_Time.Date_and_Time_Together" />
-      <module name="SpringJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day28_Day_and_Time.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TIME" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day28_Day_and_Time.TIME" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
@@ -100,13 +87,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day29.test2" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day29.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.test1" />
         <item itemvalue="Application.Date_Time_Formatting" />
         <item itemvalue="Application.Date_and_Time_Together" />
         <item itemvalue="Application.Time_Formatting" />
-        <item itemvalue="Application.TIME" />
       </list>
     </recent_temporary>
   </component>
@@ -120,20 +120,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587607972711</updated>
-    </task>
-    <task id="LOCAL-00004" summary="four commit">
-      <created>1587609081508</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1587609081508</updated>
-    </task>
-    <task id="LOCAL-00005" summary="five commit">
-      <created>1587609152278</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1587609152278</updated>
     </task>
     <task id="LOCAL-00006" summary="commit secomd">
       <created>1587609346169</created>
@@ -464,7 +450,21 @@
       <option name="project" value="LOCAL" />
       <updated>1587752041188</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="commit123">
+      <created>1587752117310</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1587752117310</updated>
+    </task>
+    <task id="LOCAL-00054" summary="commit123">
+      <created>1587752146231</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1587752146231</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -500,31 +500,31 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="699" height="196" key="GridCell.Tab.0.bottom" timestamp="1587751929555">
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1587752807502">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587751929555" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587752807502" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587651621098" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877945" />
-    <state width="699" height="196" key="GridCell.Tab.0.center" timestamp="1587751929552">
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1587752807499">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587751929552" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587752807499" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587651621095" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1587609628539" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877942" />
-    <state width="699" height="196" key="GridCell.Tab.0.left" timestamp="1587751929550">
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1587752807498">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587751929550" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587752807498" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587651621094" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1587609628538" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877941" />
-    <state width="699" height="196" key="GridCell.Tab.0.right" timestamp="1587751929554">
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1587752807501">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="699" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587751929554" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587752807501" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587651621097" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877944" />
