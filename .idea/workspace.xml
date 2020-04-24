@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Replits/Replit151.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Replits/Replit151.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Replit151.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Replit151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day28_Day_and_Time/Warm_Up1_LocalDAte.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day28_Day_and_Time/Warm_Up1_LocalDAte.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +19,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
   </component>
   <component name="ProjectId" id="1avF4vwgMbZj5jPGhfsXMmEcsJR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Warm_Up1_LocalDAte">
+  <component name="RunManager" selected="Application.Time_Formatting">
     <configuration name="Replit151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Replits.Replit151" />
       <module name="SpringJava" />
@@ -53,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Summary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day27_DateTime.Summary" />
+    <configuration name="TIME" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day28_Day_and_Time.TIME" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day27_DateTime.*" />
+          <option name="PATTERN" value="Day28_Day_and_Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Warm_Up1_Frequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day26_Method_Overloading.Warm_Up1_Frequency" />
+    <configuration name="Time_Formatting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day28_Day_and_Time.Time_Formatting" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day26_Method_Overloading.*" />
+          <option name="PATTERN" value="Day28_Day_and_Time.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,11 +96,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Time_Formatting" />
+        <item itemvalue="Application.TIME" />
         <item itemvalue="Application.Warm_Up1_LocalDAte" />
         <item itemvalue="Application.Replit151" />
         <item itemvalue="Application.Self" />
-        <item itemvalue="Application.Warm_Up1_Frequency" />
-        <item itemvalue="Application.Summary" />
       </list>
     </recent_temporary>
   </component>
@@ -456,31 +458,31 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1587737666807">
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom" timestamp="1587739967035">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587737666807" />
+    <state width="1398" height="196" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1587739967035" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587651621098" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877945" />
-    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1587737666805">
+    <state width="1398" height="196" key="GridCell.Tab.0.center" timestamp="1587739967033">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587737666805" />
+    <state width="1398" height="196" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1587739967033" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587651621095" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1587609628539" />
     <state width="1398" height="245" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877942" />
-    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1587737666803">
+    <state width="1398" height="196" key="GridCell.Tab.0.left" timestamp="1587739967031">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587737666803" />
+    <state width="1398" height="196" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1587739967031" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587651621094" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1587609628538" />
     <state width="1398" height="245" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877941" />
-    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1587737666806">
+    <state width="1398" height="196" key="GridCell.Tab.0.right" timestamp="1587739967034">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587737666806" />
+    <state width="1398" height="196" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1587739967034" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587651621097" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="245" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587612877944" />
