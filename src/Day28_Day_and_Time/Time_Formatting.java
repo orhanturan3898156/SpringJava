@@ -6,6 +6,18 @@ import java.time.format.DateTimeFormatter;
 public class Time_Formatting {
     public static void main(String[] args) {
 
+        /*
+        Time Formatting;
+
+        -hour    :hh
+        -minute  :mm
+        -second  :ss
+        -am/pm   : a >>>just a
+
+
+
+         */
+
 
         DateTimeFormatter dtf=DateTimeFormatter.ofPattern("hh:mm a");
         LocalTime time1=LocalTime.of(16,30);
