@@ -1,6 +1,6 @@
 package Replits;
 
-public class Replit154 {
+public class Replit154_Palindrome_Numbers {
     public static void main(String[] args) {
 
         palindromeNumber(454);
@@ -11,18 +11,27 @@ public class Replit154 {
 
     public static void palindromeNumber(int number) {
 
-        //4334
+        //454
+
+
+
 
         int remainder, reversed=0;
         int num=number;
 
         while (num!=0){
-            remainder=num%10;
-            reversed=reversed*10+remainder;
+            remainder=num%10;                  /// 4 5 4
+            reversed=reversed*10+remainder;   ///4  45
+            //
+            //
+            //
 
 
 
             num=num/10;
+            //454   45
+            //45    4
+            //
 
 
 
