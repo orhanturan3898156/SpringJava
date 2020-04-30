@@ -3,15 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="commit123">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Office_Hours/Practice_04_29_2020/ArrayList_Methods2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Office_Hours/Practice_04_29_2020/ArrayList_Methods2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Replits/Replit165.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Replits/Replit165.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Self.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Self.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/test1.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Auto_Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Auto_Unboxing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_04_29_2020/ArrayList_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_04_29_2020/ArrayList_Methods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Assessment4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Assessment4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Replit165.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Replit165.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Self.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Self.java" afterDir="false" />
     </list>
@@ -50,13 +45,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.Contains">
-    <configuration name="ArrayList_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Office_Hours.Practice_04_29_2020.ArrayList_Methods" />
+  <component name="RunManager" selected="Application.Bulk_Remove_All">
+    <configuration name="Bulk_Add_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Bulk_Add_All" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Office_Hours.Practice_04_29_2020.*" />
+          <option name="PATTERN" value="Day31_Bulk_Operations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayList_Methods2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Office_Hours.Practice_04_29_2020.ArrayList_Methods2" />
+    <configuration name="Bulk_Contains_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Bulk_Contains_All" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Office_Hours.Practice_04_29_2020.*" />
+          <option name="PATTERN" value="Day31_Bulk_Operations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assessment4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replits.Assessment4" />
+    <configuration name="Bulk_Remove_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Bulk_Remove_All" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Replits.*" />
+          <option name="PATTERN" value="Day31_Bulk_Operations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Contains" />
+    <configuration name="Contains_Clear_Empty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Contains_Clear_Empty" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Contains" />
+        <item itemvalue="Application.Bulk_Remove_All" />
+        <item itemvalue="Application.Bulk_Add_All" />
+        <item itemvalue="Application.Bulk_Contains_All" />
+        <item itemvalue="Application.Contains_Clear_Empty" />
         <item itemvalue="Application.Replit180" />
-        <item itemvalue="Application.Assessment4" />
-        <item itemvalue="Application.ArrayList_Methods2" />
-        <item itemvalue="Application.ArrayList_Methods" />
       </list>
     </recent_temporary>
   </component>
@@ -520,38 +515,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="133" key="GridCell.Tab.0.bottom" timestamp="1588257576924">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom" timestamp="1588264703278">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="162" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588181789019" />
-    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1588257576924" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588264703278" />
+    <state width="1398" height="133" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1588261836175" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587913899062" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104150" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155013" />
-    <state width="1398" height="133" key="GridCell.Tab.0.center" timestamp="1588257576922">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center" timestamp="1588264703277">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="162" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588181789017" />
-    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1588257576922" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588264703277" />
+    <state width="1398" height="133" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1588261836174" />
     <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1587609628539" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587913899060" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104141" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155010" />
-    <state width="1398" height="133" key="GridCell.Tab.0.left" timestamp="1588257576921">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left" timestamp="1588264703276">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="162" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588181789017" />
-    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1588257576921" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588264703276" />
+    <state width="1398" height="133" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1588261836173" />
     <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1587609628538" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587913899059" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104139" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155009" />
-    <state width="1398" height="133" key="GridCell.Tab.0.right" timestamp="1588257576923">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right" timestamp="1588264703278">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="162" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588181789018" />
-    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1588257576923" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588264703278" />
+    <state width="1398" height="133" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1588261836175" />
     <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1587609628540" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587913899061" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104145" />
@@ -599,10 +594,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="499" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1588213798203" />
-    <state x="385" y="197" width="670" height="599" key="search.everywhere.popup" timestamp="1588005232265">
+    <state x="385" y="197" width="670" height="599" key="search.everywhere.popup" timestamp="1588261562494">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="385" y="197" width="670" height="599" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1588005232265" />
+    <state x="385" y="197" width="670" height="599" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1588261562494" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587866408907" />
   </component>
   <component name="XDebuggerManager">

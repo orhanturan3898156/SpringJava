@@ -3,7 +3,7 @@ package Day31_Bulk_Operations;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Contains {
+public class Contains_Clear_Empty {
     public static void main(String[] args) {
         //contains(object)>>we have to pass object, not primitive. It should be string style
         //equals
@@ -53,6 +53,11 @@ public class Contains {
         System.out.println(reversed);
         list3 = reversed;
         System.out.println(list3);
+        System.out.println("=================================================================");
+        System.out.println(list3.size());
+        list3.clear();//removes everything
+        boolean r4=list3.isEmpty(); //checks if it is empty or not
+        System.out.println(r4);
 
 
     }
