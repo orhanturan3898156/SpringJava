@@ -44,7 +44,7 @@ public class Contains {
 
 
         for (int i = list3.size() - 1; i >= 0; i--) {
-            //System.out.print(list3.get(i)+ " ");
+            //System.out.print(list3.get(i)+ " "); ////
 
             reversed.add(list3.get(i));
 
