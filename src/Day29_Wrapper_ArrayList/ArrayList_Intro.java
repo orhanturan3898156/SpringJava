@@ -24,9 +24,12 @@ public class ArrayList_Intro {
 
         // add(): adds element to Array
 
+
+
         scores.add(10); //Autoboxing >>size of Array:1 now
         scores.add(20);
         scores.add(30); //size:3
+        scores.add(45);
 
         System.out.println(scores);
 

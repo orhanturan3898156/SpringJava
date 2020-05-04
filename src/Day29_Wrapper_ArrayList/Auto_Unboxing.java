@@ -16,6 +16,11 @@ public class Auto_Unboxing {
         byte b2 = byte1;    //unboxing
         int int1 = byte1;   //unboxing
 
+        int m=100;
+
+        Integer n=m;
+
+
 
     }
 }

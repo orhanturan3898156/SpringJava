@@ -12,7 +12,10 @@ public class ArrayList_Practice {
         shoppingList.add("bread");
         shoppingList.add("toilet paper");
 
+
+
         System.out.println(shoppingList);
+        System.out.println(shoppingList.get(0));
 
         /*System.out.println(shoppingList.get(0));
         System.out.println(shoppingList.get(1));

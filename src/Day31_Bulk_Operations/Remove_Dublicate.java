@@ -8,7 +8,7 @@ public class Remove_Dublicate {
         ArrayList<Integer> list = new ArrayList<>();
         list.addAll(Arrays.asList(1, 1, 2, 2, 3, 3));
 
-        ArrayList<Integer> result = new ArrayList<>();
+        ArrayList<Integer> result = new ArrayList<>();//1,2,3
 
         for (Integer each : list) {
 
@@ -24,7 +24,7 @@ public class Remove_Dublicate {
         /*
         write a program can remove dublicate from an array
          */
-        int[] arr1={1,1,2,3,2,3};
+        int[] arr1={1,1,2,3,2,3,4};
 
         ArrayList<Integer> nonDublicate=new ArrayList<>();
 
