@@ -32,7 +32,11 @@ public class Car {
     public String toString(){
         String result=year+" "+brand+" "+model+" "+color;
         return result;
+
+
     }
+
+
 
     public static void main(String[] args) {
 

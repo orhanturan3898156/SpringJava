@@ -35,11 +35,14 @@ public class Cat_Objects {
         cat2.eat("doner");
         cat3.eat("zukkum");
 
+
         System.out.println("=====================================================");
 
         cat1.drink("water");
         cat2.drink("milk");
         cat3.drink("coffee");
+        System.out.println("=====================================================");
+        System.out.println(cat1);
 
 
 
