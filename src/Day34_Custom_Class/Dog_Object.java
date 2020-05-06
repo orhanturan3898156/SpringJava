@@ -39,8 +39,8 @@ public class Dog_Object {
 
 
         ArrayList<Dog> puppies = new ArrayList<>();
-        puppies.addAll(Arrays.asList(dog1, dog2, dog3));
-        puppies.addAll(Arrays.asList(dog4, dog5));
+        puppies.addAll(Arrays.asList(dog1, dog2, dog3,dog4,dog5));
+        //puppies.addAll(Arrays.asList(dog4, dog5));
 
         for (int i = 0; i < puppies.size(); i++) {
             Dog eachDog = puppies.get(i);
