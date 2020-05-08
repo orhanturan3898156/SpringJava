@@ -29,10 +29,10 @@ public class AppleINC {
         System.out.println("=================================================");
 
         Developer dev1 = new Developer();
-        dev1.setTesterInfo("Barzy", "Senior Developer", 200000, 32790);
+        dev1.setDevInfo("Barzy", "Senior Developer", 200000, 32790);
 
         Developer dev2 = new Developer();
-        dev2.setTesterInfo("Emrah", "Developer", 130000, 45267);
+        dev2.setDevInfo("Emrah", "Developer", 130000, 45267);
 
 
         scrum1.hireDeveloper(dev1);

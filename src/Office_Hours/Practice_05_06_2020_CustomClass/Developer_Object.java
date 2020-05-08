@@ -9,14 +9,14 @@ public class Developer_Object {
 
         Developer developer1 = new Developer();
 
-        developer1.setTesterInfo("John", "Senior Developer", 150000, 235474745);
+        developer1.setDevInfo("John", "Senior Developer", 150000, 235474745);
         System.out.println(developer1);
 
         System.out.println(developer1);
 
         Developer developer2 = new Developer();
 
-        developer2.setTesterInfo("Leon", "Senior Developer", 200000, 4534745);
+        developer2.setDevInfo("Leon", "Senior Developer", 200000, 4534745);
 
         developer1.coding();
         developer2.coding();

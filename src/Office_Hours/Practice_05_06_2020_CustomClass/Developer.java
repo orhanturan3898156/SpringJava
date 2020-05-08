@@ -7,7 +7,7 @@ public class Developer {
     double salary;
     long employeeId;
 
-    public void setTesterInfo(String name, String jobTitle, double salary, long employeeId) {
+    public void setDevInfo(String name, String jobTitle, double salary, long employeeId) {
         this.name = name;
         this.jobTitle = jobTitle;
         this.salary = salary;
