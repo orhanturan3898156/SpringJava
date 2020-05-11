@@ -19,6 +19,8 @@ public class Student_Object {
         Student student2=new Student("Ali",23,'M',"Stanford");
         System.out.println(student2);
 
+        System.out.println("=======================================");
+
 
     }
 }
