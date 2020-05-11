@@ -19,6 +19,8 @@ public class Static_Practice {
 
         System.out.println("sum is : " + (num1 + num2));
 
+
+
     }
 
     public void methhod1() {

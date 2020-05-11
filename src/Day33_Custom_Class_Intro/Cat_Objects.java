@@ -9,6 +9,7 @@ public class Cat_Objects {
         cat1.setCatInfo("Siemes", "white", 2, "Sasha");
 
 
+
         Cat cat2 = new Cat();
         cat2.setCatInfo("Scootish", "Beige", 7, "Bobo");
 

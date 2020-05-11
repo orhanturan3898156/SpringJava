@@ -8,6 +8,7 @@ public class Student_Object {
 
         Student student1 = new Student();
         // System.out.println(student1.name); >>>null
+
         student1.setStudentInfo("Adam", "England", 34, 3.5, 'M', true);
         //System.out.println(student1);>>gives hashcode,because we havent initiazlized the toString method yet
         System.out.println(student1);
@@ -33,7 +34,7 @@ public class Student_Object {
         System.out.println(canGraduate.size());
         for (int i = 0; i < canGraduate.size(); i++) {
             Student each = canGraduate.get(i);
-            System.out.println(each.name + " can graduate");
+            System.out.println(each.name +", "+each.gpa+ " can graduate");
 
 
         }

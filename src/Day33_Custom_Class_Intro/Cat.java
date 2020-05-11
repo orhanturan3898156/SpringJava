@@ -2,7 +2,7 @@ package Day33_Custom_Class_Intro;
 /*
 cat class:
 data/Attribute:instance variales
-brred,color,age
+breed,color,age
 
 actions:instance methods
 sleep(),eat(),drink()
@@ -30,11 +30,16 @@ public class Cat {
         age=catAge;
         name=catName;
     }
+
     public  String toString(){
         String result=name+" ,breed is "+breed+" ,color is "+color+", "+age+" years old";
         return result;
 
     }
+
+
+
+
 
 
 

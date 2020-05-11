@@ -20,7 +20,7 @@ public class Static_Block {
     }
 
     static {
-        System.out.println("Hello World"); //>>>this will be executed first.
+        System.out.println("Hello World2"); //>>>this will be executed first.
         // that means if you want to write something sout is not only option.
         //if you write under main nothing change.still static will be eexecuted first/// >>>>see:)
     }
