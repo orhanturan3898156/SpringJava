@@ -31,7 +31,7 @@ public class Constructor_Intro {
 
    */
 
-    public  Constructor_Intro(int a){
+    public Constructor_Intro(int a) {
         //if you create constructor, outside like this. it MUST be same with class name.
 
         System.out.println("Constructor with parameter of int");
@@ -41,11 +41,15 @@ public class Constructor_Intro {
     public static void main(String[] args) {
 
         /*
+        Contsructor without parameter is created automaticlly.But with parameter you have to create it.
         Constructor_Intro obj = new Constructor_Intro(); //this is default constructor.beacuse we didnt create it.it created by itself.
         //Every class must have this constructor.We dont create one, it will be created automaticly.See above example.
+        */
 
-         */
-        Constructor_Intro obj2=new Constructor_Intro(10);
+        Constructor_Intro obj2 = new Constructor_Intro(10);
+        Constructor_Intro obj3 = new Constructor_Intro(20);
+        Constructor_Intro obj4 = new Constructor_Intro(30);
+
 
 
 
