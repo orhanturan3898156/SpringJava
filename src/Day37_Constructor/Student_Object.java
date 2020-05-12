@@ -11,7 +11,7 @@ public class Student_Object {
 
          */
 
-        //this helps us to not call setinfo again and again.
+        //this helps us to not call set info again and again.
 
         Student student1=new Student("Ahmet", 34, 'M', "Harward");
         System.out.println(student1);

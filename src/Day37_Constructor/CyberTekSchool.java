@@ -30,7 +30,7 @@ public class CyberTekSchool {
 class CObjects {
     public static void main(String[] args) {
         CyberTekSchool student1 = new CyberTekSchool("Ahmet", 12, "B18");
-        student1.schoolName = "MIT"; //if we do this, it will change all everyone's school name.
+       // student1.schoolName = "MIT"; //if we do this, it will change school name.
         System.out.println(student1);
 
         CyberTekSchool student2 = new CyberTekSchool("Jack", 10, "B18");

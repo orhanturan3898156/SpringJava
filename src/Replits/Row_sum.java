@@ -6,7 +6,7 @@ public class Row_sum {
                 {1, 1, 2}, //sum = 4
                 {3, 1, 2}, //sum = 6
                 {3, 5, 3}, //sum = 11
-                {0, 1, 2}//sum = 3
+                {0, 1, 10}//sum = 3
         };
         int[] sums = rowSums(a);
         for (int sum : sums)
@@ -18,13 +18,13 @@ public class Row_sum {
         int[] arr = new int[nums.length];
 
 
-        int sumof1 = 0;
+        //int sumof1 = 0;
         for (int i = 0; i < nums.length; i++) {
-            sumof1=0;
-            for (int j=0;j<nums[i].length;j++){
-                sumof1+=nums[i][j];
+            int sumof1 = 0;
+            for (int j = 0; j < nums[i].length; j++) {
+                sumof1 += nums[i][j];
             }
-            arr[i]=sumof1;
+            arr[i] = sumof1;
         }
 
 

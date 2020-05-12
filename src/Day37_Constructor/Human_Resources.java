@@ -2,7 +2,7 @@ package Day37_Constructor;
 
 public class Human_Resources {
 
-    //Main advantage of static is you can it through class name
+    //Main advantage of static is you can call it through class name
     static employee employee1=new employee();
     static employee employee2=new employee();
     static employee employee3=new employee();
@@ -26,7 +26,7 @@ public class Human_Resources {
         System.out.println(employee5);
 
     }
-    >>>>>>this block actualyy not needed.
+    >>>>>>this block actually not needed.
      */
     static {
         employee1.setInfo("Zuleyha",12334,65456324,"QA",110000,'F');
