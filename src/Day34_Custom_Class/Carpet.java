@@ -22,6 +22,7 @@ public class Carpet {
 
     //total price of carpet= (width+length)*unitprice
     public double calcCost() {
+
         double total = (width + length) * unitPrice;
         //return (isPersion) ? total + 200 : total;
         if (isPersion) {
