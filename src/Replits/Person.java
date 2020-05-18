@@ -57,6 +57,7 @@ Complete the questions on Classroom.
         return lastname;
     }
 
+    /*
     public int getBirthmonth() {
         return birthmonth;
     }
@@ -97,8 +98,9 @@ Complete the questions on Classroom.
     public void setSsn(String ssn) {
         this.ssn = ssn;
     }
+    */
 
-    public String getBirthday(int birthyear, int birthday, int birthmonth) {
+    public String getBirthday() {
         //String "3/22/2000"
         return birthmonth + "/" + birthday + "/" + birthyear;
     }

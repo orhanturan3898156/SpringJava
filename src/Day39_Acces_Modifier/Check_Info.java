@@ -6,8 +6,8 @@ public class Check_Info {
         System.out.println("Name is " + Personal_Info.name);
         System.out.println("Gender is " + Personal_Info.gender);
 
-        //System.out.println("Grade is "+Personal_Info.grade); we cannot call. it is private.
-        //same for SSN, ID , and Age as well.
+        //System.out.println("Grade is "+Personal_Info.grade);
+        //same for SSN, ID ,
         //private is only accesible in the same class.
 
         Personal_Info obj = new Personal_Info();

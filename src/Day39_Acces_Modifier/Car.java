@@ -27,7 +27,7 @@ public class Car {
     public Car(String brand, String model) {
         // this.brand = brand; >>istead of this we call above method to assign brand.
 
-        this(brand);
+        this(brand); //this.brand = brand;
         this.model = model;
     }
 

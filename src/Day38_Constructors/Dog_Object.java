@@ -2,7 +2,7 @@ package Day38_Constructors;
 
 public class Dog_Object {
     public static void main(String[] args) {
-        Dog dog1 = new Dog();
+        Dog dog1 = new Dog(); //default
         System.out.println(dog1.name);
         System.out.println(dog1.breed);
         System.out.println(dog1.age);

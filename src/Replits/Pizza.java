@@ -19,7 +19,7 @@ quantity of each topping, and the pizza cost as calculated by calcCost().
 
 getDescription() example:
 large Pizza with 0 Cheese toppings, 0 Pepperoni toppings, and 2 Ham toppings.
-Total Price: 18.0
+Total Price  : 18.0
      */
     private String size;
     private int cheeseTopping;
@@ -76,10 +76,10 @@ Total Price: 18.0
         }
     }
 
-    public String toString() {
+    public String getDescription() {
         return size + " pizza with " + cheeseTopping + " Cheese Topping, "
                 + pepperoniTopping + " Pepperoni Topping, " +
-                hamTopping + ", Ham Topping" + "\nTotal Price: " + calcCost();
+                hamTopping + ", Ham Topping." + "\nTotal Price: " + calcCost();
     }
 }
 class orderNow{

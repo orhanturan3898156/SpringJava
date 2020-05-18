@@ -28,7 +28,7 @@ public class SalaryCalculator {
     }
 
     public double salary() {
-        return hourlyRate * weeklyHours * 48;
+        return hourlyRate * weeklyHours * 52;
 
     }
 
@@ -41,7 +41,7 @@ public class SalaryCalculator {
     }
 
     public double salaryAfterTax() {
-        return salary() - stateTaxRate - federalTaxRate;
+        return salary() - stateTax() - federalTax();
     }
 
     public String toString() {
@@ -57,7 +57,7 @@ public class SalaryCalculator {
 
 class employeeSalary{
     public static void main(String[] args) {
-        SalaryCalculator employee1=new SalaryCalculator(35,40,2.5,4.75);
+        SalaryCalculator employee1=new SalaryCalculator(21,40,7.65/100,0);
         System.out.println(employee1);
     }
 }

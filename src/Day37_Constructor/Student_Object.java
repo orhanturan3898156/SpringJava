@@ -3,7 +3,8 @@ package Day37_Constructor;
 public class Student_Object {
     public static void main(String[] args) {
 
-        /*  >>normal way we did
+        /*
+        >>normal way we did
         Student student1 = new Student();
         student1.setInfo("Ahmet", 34, 'M', "Harward");
 
@@ -15,6 +16,7 @@ public class Student_Object {
 
         Student student1=new Student("Ahmet", 34, 'M', "Harward");
         System.out.println(student1);
+        System.out.println(student1.name);
 
         Student student2=new Student("Ali",23,'M',"Stanford");
         System.out.println(student2);
