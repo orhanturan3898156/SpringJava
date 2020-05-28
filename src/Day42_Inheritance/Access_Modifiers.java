@@ -10,7 +10,7 @@ public class Access_Modifiers {
     //otherwise we will need to create an object first.
 
     //in the same package: public,protected,defualt can be inherited
-    //int he different package: only public and protected can be inherited
+    //in the different package: only public and protected can be inherited
 
     public static void publicMethod() {
 

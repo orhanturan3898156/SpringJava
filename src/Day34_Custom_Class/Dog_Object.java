@@ -7,6 +7,7 @@ public class Dog_Object {
     public static void main(String[] args) {
 
         Dog dog1 = new Dog();
+
         dog1.setDogInfo("Husky", "small", 1, "yellow", "Bastie");
         System.out.println(dog1);
         /*dog1.breed="Husky";
