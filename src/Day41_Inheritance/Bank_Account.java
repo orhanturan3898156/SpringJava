@@ -62,7 +62,7 @@ public variables:  bankName, firstName, lastName
 
     public void withdrwaing(int amount) {
         //balance-=amount;  this works ,we can also use below one.
-        //when local variable and parameter name is different , we dont need to use "this" key word.
+        //when local variable and parameter name is different , we don't need to use "this" key word.
         setBalance(balance - amount);
     }
 

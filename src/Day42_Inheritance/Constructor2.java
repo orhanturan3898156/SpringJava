@@ -19,7 +19,7 @@ super. >>>
 
  */
 
-class Test {
+class Test {//parent
     public Test(int a) {
         System.out.println("A");
     }
@@ -28,7 +28,7 @@ class Test {
     }
 }
 
-public class Constructor2 extends Test {
+public class Constructor2 extends Test {//child
     public Constructor2() {
         super(5);
         System.out.println("B");

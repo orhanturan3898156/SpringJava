@@ -10,7 +10,7 @@ public class bookObjects {
         book1.size = "1.5 MB";
         book1.pages = 350;
 
-        System.out.println(book1);
+        System.out.println(book1); //ToString
         System.out.println("Size: " + book1.size);
         System.out.println("Pages: " + book1.pages);
         book1.readBook();

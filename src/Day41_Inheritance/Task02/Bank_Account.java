@@ -6,11 +6,7 @@ public class Bank_Account {
     public String accountHolder;
     public double balance;
 
-    public Bank_Account() {
-        this.accountNumber = accountNumber;
-        this.accountHolder = accountHolder;
-        this.balance = balance;
-    }
+
 
     public void deposit(int amount) {
         balance += amount;

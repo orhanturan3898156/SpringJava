@@ -32,8 +32,10 @@ public class Encapsulation {
     //there is no direct access to private data,but the methods
     private long SSN;
 
+
     //we need "getter".it is used for private data
     //get is for "read only"
+
     public long getSSN() {
         return SSN;
     }
@@ -43,6 +45,8 @@ public class Encapsulation {
     public void setSSN(long SSN) {
         this.SSN = SSN;
     }
+
+
 
 
     //if we delete public,we cannot call them in another package.

@@ -12,6 +12,15 @@ public class Person_Object {
         Zarina.setSSN(123456789);
         System.out.println("Zarina's SSN: "+Zarina.getSSN());
 
+        Person Ahmet=new Person("Ahmet");
+
+        System.out.println(Ahmet.name);
+        System.out.println(Ahmet.getSSN());
+
+        Ahmet.setSSN(123333);
+
+        System.out.println(Ahmet.getSSN());
+
 
     }
 }
