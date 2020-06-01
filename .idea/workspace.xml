@@ -3,42 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Checked.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Checked.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Exception_Handling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Exception_Handling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Exception_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Exception_Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Finally_Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Finally_Block.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Try_and_Catch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Try_and_Catch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Try_and_Catch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Try_and_Catch2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Unchecked.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day44_Exceptions/Unchecked.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day45_Exceptions/Throws_Keyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day45_Exceptions/Throws_Keyword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day5_Casting_Unary_ShortHandOperators/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day5_Casting_Unary_ShortHandOperators/LeapYear.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day5_Casting_Unary_ShortHandOperators/Primitive_Casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day5_Casting_Unary_ShortHandOperators/Primitive_Casting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day5_Casting_Unary_ShortHandOperators/UnaryOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day5_Casting_Unary_ShortHandOperators/UnaryOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/LogicalOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/LogicalOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/Replit_Questions.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/ShortHandOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/ShortHandOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/Single_If_Statement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/Single_If_Statement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/Warmup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day6_Shorthand_LogicalOperators_IfStatement/Warmup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Variable.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day44_Exceptions/Checked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Checked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day44_Exceptions/Exception_Handling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Exception_Handling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day44_Exceptions/Exception_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Exception_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day44_Exceptions/Finally_Block.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Finally_Block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day44_Exceptions/Try_and_Catch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Try_and_Catch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day44_Exceptions/Try_and_Catch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Try_and_Catch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day44_Exceptions/Unchecked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day44_Exceptions/Unchecked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day45_Exceptions/Throws_Keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day45_Exceptions/Throws_Keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/LeapYear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/Post_Pree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/Post_Pree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/Primitive_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/Primitive_Casting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/UnaryOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day5_Casting_Unary_ShortHandOperators/UnaryOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/If_Statement_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/If_Statement_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/LogicalOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/Replit_Questions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/ShortHandOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/ShortHandOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/Single_If_Statement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/Single_If_Statement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/Warmup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day6_Shorthand_LogicalOperators_IfStatement/Warmup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" afterDir="false" />
     </list>
@@ -78,7 +46,7 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Final_Variable">
+  <component name="RunManager" selected="Application.Quiz">
     <configuration name="Final_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day46_Final_Abstract.Final_Variable" />
       <module name="SpringJava" />
@@ -105,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6_Shorthand_LogicalOperators_IfStatement.LogicalOperators" />
+    <configuration name="Quiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day46_Final_Abstract.Quiz" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6_Shorthand_LogicalOperators_IfStatement.*" />
+          <option name="PATTERN" value="Day46_Final_Abstract.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quiz" />
         <item itemvalue="Application.Final_Variable" />
         <item itemvalue="Application.If_Statement_Practice" />
         <item itemvalue="Application.Single_If_Statement" />
         <item itemvalue="Application.ShortHandOperators" />
-        <item itemvalue="Application.LogicalOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -533,10 +501,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1590250054444">
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1591022572875">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1590250054444" />
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591022572875" />
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1589714237407" />
     <state x="2213" y="264" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1589080083104" />
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589645235122" />
@@ -573,10 +541,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1590940008623">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1591030209281">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1878" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590881440922" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591030209281" />
     <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590940008623" />
     <state width="982" height="131" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1590609828873" />
     <state width="1398" height="132" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1589713029897" />
@@ -584,10 +552,10 @@
     <state width="1398" height="132" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589714446182" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104150" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155013" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1590940008618">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1591030209280">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1878" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590881440919" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591030209280" />
     <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1590940008618" />
     <state width="982" height="131" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="132" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1589713029894" />
@@ -595,10 +563,10 @@
     <state width="1398" height="132" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589714446180" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104141" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155010" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1590940008618">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1591030209280">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1878" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590881440917" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591030209280" />
     <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1590940008618" />
     <state width="982" height="131" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="132" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1589713029893" />
@@ -606,10 +574,10 @@
     <state width="1398" height="132" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589714446179" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104139" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155009" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1590940008619">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1591030209281">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1878" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590881440921" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591030209281" />
     <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1590940008619" />
     <state width="982" height="131" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1590609828872" />
     <state width="1398" height="132" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1589713029896" />
@@ -653,10 +621,10 @@
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1587609530678" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587614464231" />
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1587610633878" />
-    <state x="376" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1591020194751">
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1591035502997">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1591020194751" />
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1591035502997" />
     <state x="376" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1590674688062" />
     <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1587608840674" />
     <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1589075034833" />

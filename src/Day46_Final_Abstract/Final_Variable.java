@@ -4,7 +4,11 @@ package Day46_Final_Abstract;
     Can be applied to 3 things;
     1- Variable
     When you give to variable , it cannot be reassigned again.
-    2-
+
+    2- methods: implantation of the method
+    when we have final, we cannot override them
+l
+    3-Class: it is used for immutable, cannot be inherited.
 
 
     Local, Instance and static variable

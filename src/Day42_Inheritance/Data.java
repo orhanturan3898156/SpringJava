@@ -2,7 +2,7 @@ package Day42_Inheritance;
 
 public class Data {
     /*
-    protected: visible in the same package,AND visible int the subclass outside package
+    protected: visible in the same package,AND visible in the subclass outside package
 
     Inheritance: sub class & super class
     subclass: can inherit VISIBLE  variable and  VISIBLE methods from super class.
