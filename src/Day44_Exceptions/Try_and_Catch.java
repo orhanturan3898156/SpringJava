@@ -19,6 +19,7 @@ public class Try_and_Catch {
 
         try {
             System.out.println(list.get(10));
+            System.out.println("ABC");
         } catch (IndexOutOfBoundsException e) { //in java we give "e",but can be anything.
             //We can give "IndexOutOfBoundsException" parents as well.
             //We can give "Exception" to all. it will work.

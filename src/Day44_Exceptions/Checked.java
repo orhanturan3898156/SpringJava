@@ -10,6 +10,5 @@ public class Checked {
 
         System.out.println("completed");
 
-
     }
 }

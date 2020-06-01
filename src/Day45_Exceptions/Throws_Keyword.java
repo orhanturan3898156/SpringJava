@@ -12,8 +12,8 @@ public class Throws_Keyword {
     }
 
     public static void sleep2() throws Exception {
-
         Thread.sleep(3000);
+
     }
 
     public static void main(String[] args) throws Exception {
@@ -25,7 +25,7 @@ public class Throws_Keyword {
         System.out.println("--------------------------");
 
         System.out.println("CyberTek");
-        sleep2(); //give compile first. We have to give "Throws " key word to main method as well.
+        sleep2();
         System.out.println("Java");
 
 

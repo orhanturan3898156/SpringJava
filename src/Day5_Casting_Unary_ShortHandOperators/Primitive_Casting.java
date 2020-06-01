@@ -4,7 +4,7 @@ public class Primitive_Casting {
     public static void main(String[] args) {
         //implicit casting ---done automaticly
         int a = 10;
-        long b = a;
+        long b =(int) a;//10 implicit
 
         int i1=234;
         short s1=(short)i1;
@@ -20,6 +20,7 @@ public class Primitive_Casting {
         double db=sh*2;
         System.out.println(db);
         System.out.println("==========================================");
+        //double> float>long>int>short>byte
 
         double db2=300.3;
         float fl2=(float) db2;
@@ -46,6 +47,8 @@ public class Primitive_Casting {
         int Inum = 100;
         byte Bnum = (byte) Inum;
         short Snum = (short) Inum; //also short Snum=(byte)Inum;
+
+
         double Dnum = 5.5;
         //float Fnum=(float)Dnum;
         float Fnum = (int) Dnum;

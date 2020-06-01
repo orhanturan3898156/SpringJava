@@ -13,5 +13,6 @@ public class Exception_Practice {
             System.out.println("catch block");
         }
 
+
     }
 }

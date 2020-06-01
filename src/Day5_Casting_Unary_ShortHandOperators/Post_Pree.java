@@ -33,10 +33,10 @@ public class Post_Pree {
         System.out.println("============================================");
 
         int num=35;
-        System.out.println(num++);
-        System.out.println(num);
-        System.out.println(num--);
-        System.out.println(num);
+        System.out.println(num++);//35
+        System.out.println(num);//36
+        System.out.println(num--);//36
+        System.out.println(num);//35
 
 
 

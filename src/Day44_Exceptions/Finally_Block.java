@@ -7,12 +7,14 @@ public class Finally_Block {
         try {
             System.out.println(9 / 0);
             System.out.println("Try Block");
-        } catch (NoSuchElementException e) {
+        } catch (Exception e) {
             System.out.println("catch block");
         } finally {
             System.out.println("Finally"); //finally block is ALWAYS executed. not matter exception is handled or not.
             //you need "try" and "catch" to be able to use "finally block"
         }
+
+        System.out.println("tsdjanal");
 
     }
 }

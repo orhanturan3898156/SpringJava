@@ -1,8 +1,9 @@
 package Day6_Shorthand_LogicalOperators_IfStatement;
+
 public class ShortHandOperators {
     public static void main(String[] args) {
         int x = 20;
-        x += 10;
+        x += 10;  //x=20+10
         System.out.println(x);
 
         x += 60;
@@ -24,13 +25,16 @@ public class ShortHandOperators {
         System.out.println(num);
         System.out.println("=========================================");
 
-        System.out.println(3 + 5);
-        System.out.println('3' + '5');
-        System.out.println("3" + "5");
-        System.out.println((3) + (5));
-        System.out.println((3 + 5));
-        System.out.println((3) + 5);
-        System.out.println('3' + 5);
+        System.out.println(3 + 5);//number
+        System.out.println('3' + '5');//number
+        System.out.println("3" + "5");//string
+        System.out.println((3) + (5));//number
+        System.out.println((3 + 5));//number
+        System.out.println((3) + 5);//number
+        System.out.println('3' + 5);//number
+
+        System.out.println("5+4 " + ((3) + (6)));
+        System.out.println("1 gallon " + (3 + 5));
         System.out.println("============================================");
 
         int A = 100;

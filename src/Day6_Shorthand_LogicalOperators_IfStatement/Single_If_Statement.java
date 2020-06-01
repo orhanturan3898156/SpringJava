@@ -3,34 +3,41 @@ package Day6_Shorthand_LogicalOperators_IfStatement;
 public class Single_If_Statement {
     public static void main(String[] args) {
 
-        boolean coldWeather = true;
-        if (coldWeather) {
+        boolean coldWather = true;
 
-            System.out.println("Wear your Coat");
+        if(coldWather){
+            // true
+            System.out.println("Wear your hat");
             System.out.println("Wear your jacket");
 
         }
 
-        boolean coronaDetected = true;
-        if (coronaDetected) {
-            System.out.println("Buy more toilet paper");
-            System.out.println("Stay at Home");
 
+        boolean  coronaDetected = true;
 
-        }
-        System.out.println("====================================");
-        int a = 201; //if you put 101 ,it is not going to give anything.
-        boolean evenNumber = a % 2 == 0;
-        //boolean oddNumber = a % 2 != 0;
-        if (evenNumber) {
+        if(coronaDetected){
 
-            System.out.println(a + " is even number");
+            System.out.println("Buy more toilet papers");
+            System.out.println("Buy more water");
+            System.out.println("Stay at home");
+            System.out.println("Do more java coding");
 
         }
 
-        if (!evenNumber) {
-            System.out.println(a + " is odd number");
+        System.out.println("=================================================");
+        int a = 201;
+        boolean evenNumber = a % 2 == 0;  // if a number can be devided by 2 without the reminader
+        //    boolean oddNumber = a % 2 != 0;  // if the number cannot be divided by 2 evenly
+
+        if( evenNumber ){
+            System.out.println(a +" is even number" );
         }
+
+        if(!evenNumber){  // if the number is not even number, then it must be odd
+            System.out.println(a+" is odd number ");
+        }
+
+
 
     }
 }

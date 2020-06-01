@@ -22,7 +22,8 @@ public class Unchecked {
         //System.out.println(str.charAt(-1)); out of index
 
         int[] arr = {1, 2, 3};
-        // System.out.println(arr[200]); out of bouns
+        //System.out.println(arr[2]);
+        // System.out.println(arr[200]); //out of bouns
 
         System.out.println("Test Completed");
 

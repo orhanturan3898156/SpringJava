@@ -11,6 +11,7 @@ public class Try_and_Catch2 {
 
         System.out.println("Hello");
 
+
         try {
             Thread.sleep(2000);
             System.out.println("try block");
@@ -19,5 +20,6 @@ public class Try_and_Catch2 {
         }
 
         System.out.println("World");
+
     }
 }

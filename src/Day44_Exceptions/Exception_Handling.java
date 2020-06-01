@@ -20,7 +20,7 @@ public class Exception_Handling {
         } catch (Exception e) {
             System.out.println("catch block");
             String desciription = e.getMessage();
-            System.out.println(desciription);
+            System.out.println(e.getMessage());
         }
 
 

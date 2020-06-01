@@ -34,6 +34,7 @@ public class LogicalOperators {
         System.out.println(R4);
 
         boolean R5 = true != false && !false == !!true;
+        //             true &&
         System.out.println(R5);
 
 
