@@ -1,7 +1,7 @@
 package Day46_Final_Abstract;
 
 
-//we will check if with "private" acces modifier , final can be used or not. and if we can get getter and setter methods.
+//we will check if with "private" access modifier , final can be used or not. and if we can get getter and setter methods.
 public class Final_Encapsulation {
     final private int data1 = 200;
     private int data2 = 300;
