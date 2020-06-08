@@ -10,6 +10,14 @@ public class If_Statement_Without_Curry_Brace {
 
         else
             System.out.println("Odd Number");
+
+
+        if(9>8)
+            System.out.println("Hello");
+            System.out.println("Hello");
+            System.out.println("Hello");
+            System.out.println("Hello");
+
     }
 
 }

@@ -1,6 +1,6 @@
 package Replits.If_Statements;
 
-public class Replit039_Odd_Even {
+public class Replit39_Odd_Even {
     /*
     Using conditional statements, check if number is odd or even.
 
@@ -23,6 +23,8 @@ public class Replit039_Odd_Even {
 
         String result2 = (num % 2 == 0) ? "Even number" : "Odd Number";
         System.out.println(result2);
+
+
     }
 
 }

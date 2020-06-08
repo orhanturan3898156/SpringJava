@@ -1,6 +1,6 @@
 package Replits.If_Statements;
 
-public class BlackJack {
+public class Replit44_BlackJack {
     /*
     in blackjack after the player asks to keep the house 4 things may happen.
 
@@ -16,6 +16,7 @@ player and house scores are represented by  player and house int variables.
         int playerScore = 23;
         int houseScore = 9;
         String result = "";
+
         if (playerScore > 21) {
             result = "Busts";
         } else if (houseScore > playerScore) {

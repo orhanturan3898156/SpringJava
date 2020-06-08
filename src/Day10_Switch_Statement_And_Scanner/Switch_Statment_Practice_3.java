@@ -2,7 +2,7 @@ package Day10_Switch_Statement_And_Scanner;
 
 public class Switch_Statment_Practice_3 {
     public static void main(String[] args) {
-        char ch = 'a';
+        char ch = 'Z';
         String result = " ";
         switch (ch) {
             case 'A':

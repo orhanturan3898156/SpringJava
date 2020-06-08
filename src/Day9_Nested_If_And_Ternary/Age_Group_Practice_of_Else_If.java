@@ -2,7 +2,23 @@ package Day9_Nested_If_And_Ternary;
 
 public class Age_Group_Practice_of_Else_If {
     public static void main(String[] args) {
-        int age = 180;
+        /*
+        write a program that can define the age groups of a person
+        age groups are:
+        baby (< 3 year)
+        Toddler (3 - 5),
+        Kid (6 - 9),
+        Pre-Teen (10 - 12),
+        Teenager (13 - 17),
+        Young Adult (18 - 20),
+        Adult (21 - 39),
+        Young Middle-Aged Adult (40 - 49),
+        Middle-Aged Adult (50 - 54),
+        Very Young Senior Citi
+         */
+
+        int age = 20;
+
         String ageGroup = " ";
         if (age < 3 && age > 0) {
             ageGroup = "Baby";
@@ -34,13 +50,13 @@ public class Age_Group_Practice_of_Else_If {
             ageGroup = "Invalid";
         }
         System.out.println(ageGroup);
+
         boolean eligibleToBuy = ageGroup == "Adult" || ageGroup == "Young Middle Age Adult" || ageGroup == "Mid Age Adult";
+
         if (eligibleToBuy) {
             System.out.println("You are eligible");
         } else {
             System.out.println("Not Eligible");
-
-
 
         }
 

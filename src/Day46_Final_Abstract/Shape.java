@@ -21,5 +21,9 @@ However ,if it is final, we cannot use abstract
 public abstract class Shape {
     abstract void Area();
 
+    public void method1() {
+        System.out.println("Hello");
+    }
+
 
 }

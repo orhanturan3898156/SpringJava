@@ -2,11 +2,13 @@ package Day8_Multi_Branch_If_Statement;
 
 public class More_Example {
     public static void main(String[] args) {
-        double note = 45;
-        boolean GradeA = note >= 90;
+        double note = -45;
+
+        boolean GradeA = note >= 90 && note<=100;
         boolean GradeB = note < 90 && note >= 80;
         boolean GradeC = note >= 70 && note < 80;
         boolean GradeD = note >= 60 && note < 70;
+        boolean GradeF = note < 60 && note>=0;
 
 
         /*if (GradeA){
@@ -34,8 +36,10 @@ public class More_Example {
             grade = 'C';
         } else if (GradeD) {
             grade = 'D';
-        } else {
+        } else if (GradeF){
             grade = 'F';
+        }else {
+            grade='I';
         }
         System.out.println("Your grade is: " + grade);
     }

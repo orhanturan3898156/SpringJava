@@ -20,6 +20,7 @@ public class Nested_If {
 
         boolean citizenship = true;
         int age = 14;
+
         if (citizenship) {
             if (age > 17) {
                 System.out.println("Eligible");
@@ -33,7 +34,7 @@ public class Nested_If {
         }
         System.out.println("\n==================================================");
 
-        int score = 302;
+        int score = -2;
         String grade = " ";
         if (score >= 0 && score <= 100) {
             if (score >= 90) {
@@ -53,12 +54,14 @@ public class Nested_If {
             System.out.println("Invalid");
         }
         System.out.println("\n==================================================");
+
         //above example with Ternary
         int score1 = 392;
+
         String grade1 = " ";
+
         if (score1>=0 && score1<=100){
             grade1=(score1>=90)? "A" :(score1>=80)? "B" :(score1>=70)? "C" :(score1>=60)? "D" :"Fail";
-
 
         }else {
             grade1="Invalid";

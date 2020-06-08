@@ -8,11 +8,11 @@ class Test {
 }
 
 public class Final_Method2 extends Test {
-    /*
 
+   /*
     @Override
-    public void method1() {          >>>>>>>if we use final key word to any method, we CANNOT OVERRIDE that method.
-        System.out.println("B");
+    public void method1() {         // >>>>>>>if we use final key word to any method, we CANNOT OVERRIDE that method.
+        System.out.println("BCA");
     }
 
      */

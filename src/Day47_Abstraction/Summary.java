@@ -11,7 +11,7 @@ public class Summary {
        -Inheritance >> we provide the implementation
        -Abstraction >> we hide the implementation
 
-    ***if the impelmentatio is same but tha wayw we create is different we use abstraction.
+    ***if the implementation is same but tha wayw we create is different we use abstraction.
     That's why we ignore the body.
 
 

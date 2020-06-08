@@ -2,8 +2,9 @@ package Day9_Nested_If_And_Ternary;
 
 public class Nested_If_Salary_Practice {
     public static void main(String[] args) {
-        double salary = 12000;
-        byte workexperience = 4;
+        double salary = 200000;
+        byte workexperience = 5;
+
         if (salary >= 30000) {
             if (workexperience >= 2) {
                 System.out.println("You are eligible");
@@ -14,6 +15,9 @@ public class Nested_If_Salary_Practice {
         } else {
             System.out.println("Sorry!!!Your are not eligible for loan!");
         }
+
+
+
         double salary2 = 48000;
         byte workexperience2 = 7;
         String result = " ";

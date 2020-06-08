@@ -6,14 +6,31 @@ import java.util.Scanner;
 
 public class SelfStudy {
     public static void main(String[] args) {
-        Scanner scan = new Scanner(System.in);
-        int number = scan.nextInt();
-        if (number <= 7 || number >= 1) {
-            String result = (number == 1) ? "Mon" : (number == 2) ? "Tue" : (number == 3) ? "Wed" :
-                    (number == 4) ? "Tues" : (number == 5) ? "Fri" : (number == 6) ? "sat" : "Sunday";
-            System.out.println(result);
+        //13
+
+       grade(3.12);
+
+    }
+
+    public static void grade(double score) {
+        String result = "";
+
+        if (score <= 4 && score >= 0) {
+            result = (score == 4) ? "A+" :
+            (score < 4 && score >= 75) ? "A" :
+            (score < 3.75 && score >= 3.5) ? "A-" :
+            (score < 3.5 && score >= 3.25) ? "B+" :
+             (score < 3.25 && score >= 3) ? "B" :
+             (score < 3 && score >= 2.75) ? "B-" :
+             (score < 2.75 && score >= 2) ? "C" :
+             "F";
+
+
         } else {
-            System.out.println("Invalid");
+            result = "Invalid";
         }
+
+
+        System.out.println(result);
     }
 }

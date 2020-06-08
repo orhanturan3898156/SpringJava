@@ -3,7 +3,8 @@ package Day10_Switch_Statement_And_Scanner;
 public class Switch_Statement_Practice {
     //always give break after case
     public static void main(String[] args) {
-        int day = 9;
+        int day = 6;
+
         switch (day) {
             case 1:
                 System.out.println("Monday");

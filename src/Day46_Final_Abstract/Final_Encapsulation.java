@@ -3,8 +3,9 @@ package Day46_Final_Abstract;
 
 //we will check if with "private" access modifier , final can be used or not. and if we can get getter and setter methods.
 public class Final_Encapsulation {
-    final private int data1 = 200;
-    private int data2 = 300;
+
+    final private int data1 = 200; //get , no set
+    private int data2 = 300; //gwt, set
 
     public int getData1() {
         return data1;
@@ -22,6 +23,4 @@ public class Final_Encapsulation {
     public void setData2(int data2) {
         this.data2 = data2;
     }
-
-
 }

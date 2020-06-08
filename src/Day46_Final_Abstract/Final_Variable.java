@@ -34,6 +34,9 @@ public class Final_Variable {
 
         final String gender = "male";
         //gender="Female";
+        final int number1;
+        number1=1344;
+        //number1=345;
 
 
         final int score; // we have not initialized it yet
@@ -46,7 +49,7 @@ public class Final_Variable {
         //let's look into instance variable now. We can call instance variable we need to create an OBJECT first.
 
         Final_Variable obj = new Final_Variable();
-        // obj.instanceVaiable=400; giving compile error
+        //obj.instanceVariable=400; //giving compile error
         System.out.println(obj.instanceVariable);
 
         // staticVariable=2000;// when there is no final key word, we can reassign the static variable.BUT when it has final, we can't.

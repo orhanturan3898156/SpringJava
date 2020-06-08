@@ -2,7 +2,7 @@ package Day8_Multi_Branch_If_Statement;
 
 public class Multi_Branch_IfStatement_ElseIf {
     public static void main(String[] args) {
-        int a = 0;
+        int a = -10;
 
         boolean positive = a > 0;
         boolean negative = a < 0;
@@ -15,5 +15,9 @@ public class Multi_Branch_IfStatement_ElseIf {
         } else { //you use "else"only when there is no posibility left.
             System.out.println("zero");
         }
+
+        System.out.println("=======================");
+        String result=(a>0)? "Positive":(a<0)? "Negative":"Zero";
+        System.out.println(result);
     }
 }

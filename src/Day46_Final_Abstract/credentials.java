@@ -12,6 +12,7 @@ public class credentials {
         return password;
     }
 
-    //we cannot generate setter methods,because above variables are final.
+
+//we cannot generate setter methods,because above variables are final.
     //Final cannot be reassigned.
 }

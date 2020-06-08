@@ -4,6 +4,7 @@ public class Ternary_Practice {
     public static void main(String[] args) {
         int number = 10;
         char ch1 = ' ';
+
         if (number > 0) {
             ch1 = '+';
         } else if (number < 0) {
@@ -35,7 +36,12 @@ public class Ternary_Practice {
         }
         System.out.println(grade);
 
-        String grade2=(score>=90 && score<=100)? "Excellent" :(score>=80 && score>90)? "Great" :(score>=70 && score<80)? "Good" :(score>=60 && score<70)? "Pass" :(score<60 && score>0)? "Fail" : "Invalid";
+        String grade2=(score>=90 && score<=100)? "Excellent"
+                :(score>=80 && score>90)? "Great"
+                :(score>=70 && score<80)? "Good"
+                :(score>=60 && score<70)? "Pass"
+                :(score<60 && score>0)? "Fail"
+                : "Invalid";
         System.out.println(grade2);
     }
 }

@@ -9,7 +9,7 @@ public final class Circle extends Shape {
     }
 
     @Override
-    void Area() {//when override, we can give the same or more visible access modifier
+    public void Area() {//when override, we can give the same or more visible access modifier
         //means we can give default or public.
         double area = radius * radius * PI;
         System.out.println("Area of Circle: " + area);
