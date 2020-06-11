@@ -1,6 +1,8 @@
 package Day48_Abstraction;
 
 public abstract class Test implements Interface_Intro {
+    //we are not supposed to add "abstract".It is optional.If we add it, we cannot create an object.Because it is not concrete.
+
 
     /*
     Interface cannot be SuperClass,but supertype.

@@ -13,6 +13,7 @@ public class ZZZOrder {
      Interface3
      extends_implements
      extends_implements2
+     defaultMethod
 
 
 

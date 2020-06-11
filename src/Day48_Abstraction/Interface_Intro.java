@@ -7,7 +7,7 @@ public interface Interface_Intro { //this is not a class,but interface.
          -A class can inherit from one class only (extends)
          -A class can inherit multiple inheritance (implements)
    2_ What we can have in Interface?
-         -Variables: by default variable you declared wil be static an final together
+         -Variables: by default variable you declared will be static and final together
          -Methods:
          -Abstract Method,static method,default methods(lambda expression,will learn later)
 
@@ -32,7 +32,7 @@ public interface Interface_Intro { //this is not a class,but interface.
 
     //we cannot have contructor in interface,becuase contructor is for calling objects.
      */
-    // when Interface, we don't have to giev abstract key word.
+    // when Interface, we don't have to give abstract key word.
     public abstract void method1(); // in normal class this is how we create an abstract class
 
     public void method2(); //by default public is here

@@ -3,61 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day10_Switch_Statement_And_Scanner/Switch_Statment_Practice_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day10_Switch_Statement_And_Scanner/Switch_Statment_Practice_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Encapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Encapsulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Method.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Variable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/abstraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/abstraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/final_practice$test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/final_practice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/shape_object.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/shape_object.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day47_Abstraction/ChromeDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day47_Abstraction/ChromeDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day47_Abstraction/Driver_Objects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day47_Abstraction/Driver_Objects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day47_Abstraction/Remote_WebDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day47_Abstraction/Remote_WebDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day7_If_Statement_Else/Max_Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day7_If_Statement_Else/Max_Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day7_If_Statement_Else/Valid_Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day7_If_Statement_Else/Valid_Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day8_Multi_Branch_If_Statement/EqualNumber_MultiBranch_IF.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day8_Multi_Branch_If_Statement/EqualNumber_MultiBranch_IF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day8_Multi_Branch_If_Statement/More_Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day8_Multi_Branch_If_Statement/More_Example.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day8_Multi_Branch_If_Statement/Multi_Branch_IfStatement_ElseIf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day8_Multi_Branch_If_Statement/Multi_Branch_IfStatement_ElseIf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Nested_If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Nested_If.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Nested_If_Salary_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Nested_If_Salary_Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Ternary_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Ternary_Practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Ternary_Practice2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day9_Nested_If_And_Ternary/Ternary_Practice2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Replits/If_Statements/BlackJack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Replits/If_Statements/Replit039_Odd_Even.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/SelfStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/SelfStudy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Task/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_Switch_Statement_And_Scanner/Switch_Statement_Practice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day10_Switch_Statement_And_Scanner/Switch_Statment_Practice_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day10_Switch_Statement_And_Scanner/Switch_Statment_Practice_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day48_Abstraction/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day48_Abstraction/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/SelfStudy.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Method.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Method2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Method2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Variable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/credentials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/credentials.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/final_practice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/shape_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/shape_object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/ChromeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/Driver_Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/Driver_Objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/Remote_WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/Remote_WebDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/Summary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/ZZZOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/ZZZOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day7_If_Statement_Else/Max_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day7_If_Statement_Else/Max_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day7_If_Statement_Else/Valid_Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day7_If_Statement_Else/Valid_Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day8_Multi_Branch_If_Statement/EqualNumber_MultiBranch_IF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day8_Multi_Branch_If_Statement/EqualNumber_MultiBranch_IF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day8_Multi_Branch_If_Statement/More_Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day8_Multi_Branch_If_Statement/More_Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day8_Multi_Branch_If_Statement/Multi_Branch_IfStatement_ElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day8_Multi_Branch_If_Statement/Multi_Branch_IfStatement_ElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day48_Abstraction/Interface2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day48_Abstraction/Interface2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day48_Abstraction/Interface_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day48_Abstraction/Interface_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day48_Abstraction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day48_Abstraction/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day48_Abstraction/ZZZOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day48_Abstraction/ZZZOrder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" afterDir="false" />
@@ -67,10 +20,6 @@
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Ternary_Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Ternary_Practice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/If_Statements/BlackJack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/If_Statements/Replit039_Odd_Even.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SelfStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SelfStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Person.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,13 +59,13 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Interface3">
-    <configuration name="Driver_Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day47_Abstraction.Driver_Objects" />
+  <component name="RunManager" selected="Application.Replit73">
+    <configuration name="Replit57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.String_Manupilation.Replit57" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day47_Abstraction.*" />
+          <option name="PATTERN" value="Replits.String_Manupilation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day48_Abstraction.Interface2" />
+    <configuration name="Replit65" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.String_Manupilation.Replit65" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day48_Abstraction.*" />
+          <option name="PATTERN" value="Replits.String_Manupilation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day48_Abstraction.Interface3" />
+    <configuration name="Replit69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.String_Manupilation.Replit69" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day48_Abstraction.*" />
+          <option name="PATTERN" value="Replits.String_Manupilation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Phone_Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day48_Abstraction.Phone_Object" />
+    <configuration name="Replit72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.String_Manupilation.Replit72" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day48_Abstraction.*" />
+          <option name="PATTERN" value="Replits.String_Manupilation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="shape_object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day46_Final_Abstract.shape_object" />
+    <configuration name="Replit73" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.String_Manupilation.Replit73" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day46_Final_Abstract.*" />
+          <option name="PATTERN" value="Replits.String_Manupilation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Interface3" />
-        <item itemvalue="Application.Interface2" />
-        <item itemvalue="Application.Phone_Object" />
-        <item itemvalue="Application.Driver_Objects" />
-        <item itemvalue="Application.shape_object" />
+        <item itemvalue="Application.Replit73" />
+        <item itemvalue="Application.Replit72" />
+        <item itemvalue="Application.Replit69" />
+        <item itemvalue="Application.Replit65" />
+        <item itemvalue="Application.Replit57" />
       </list>
     </recent_temporary>
   </component>
@@ -565,10 +514,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1591645221381">
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1591645955599">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591645221381" />
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1591645955599" />
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591536443189" />
     <state x="2213" y="264" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1589080083104" />
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589645235122" />
@@ -605,10 +554,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1591641271573">
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1591840161867">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591641271573" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591840161867" />
     <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591234776736" />
     <state width="982" height="131" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1590609828873" />
     <state width="1398" height="166" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591542374639" />
@@ -616,10 +565,10 @@
     <state width="1878" height="242" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066695" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104150" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155013" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1591641271570">
+    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1591840161866">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591641271570" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591840161866" />
     <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1591234776730" />
     <state width="982" height="131" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="166" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591542374637" />
@@ -627,10 +576,10 @@
     <state width="1878" height="242" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066693" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104141" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155010" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1591641271569">
+    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1591840161865">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591641271569" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591840161865" />
     <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1591234776728" />
     <state width="982" height="131" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="166" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591542374636" />
@@ -638,10 +587,10 @@
     <state width="1878" height="242" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066692" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104139" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155009" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1591641271571">
+    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1591840161866">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591641271571" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591840161866" />
     <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1591234776731" />
     <state width="982" height="131" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1590609828872" />
     <state width="1398" height="166" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591542374638" />
@@ -649,31 +598,31 @@
     <state width="1878" height="242" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066694" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104145" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155011" />
-    <state width="1398" height="193" key="GridCell.Tab.1.bottom" timestamp="1591627672807">
+    <state width="1398" height="193" key="GridCell.Tab.1.bottom" timestamp="1591646527908">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591627672807" />
+    <state width="1398" height="193" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591646527908" />
     <state width="1398" height="194" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590003383457" />
     <state width="1878" height="242" key="GridCell.Tab.1.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695482" />
     <state width="1878" height="242" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066698" />
-    <state width="1398" height="193" key="GridCell.Tab.1.center" timestamp="1591627672805">
+    <state width="1398" height="193" key="GridCell.Tab.1.center" timestamp="1591646527907">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591627672805" />
+    <state width="1398" height="193" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591646527907" />
     <state width="1398" height="194" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1590003383455" />
     <state width="1878" height="242" key="GridCell.Tab.1.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695477" />
     <state width="1878" height="242" key="GridCell.Tab.1.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066697" />
-    <state width="1398" height="193" key="GridCell.Tab.1.left" timestamp="1591627672803">
+    <state width="1398" height="193" key="GridCell.Tab.1.left" timestamp="1591646527906">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591627672803" />
+    <state width="1398" height="193" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591646527906" />
     <state width="1398" height="194" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1590003383454" />
     <state width="1878" height="242" key="GridCell.Tab.1.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695474" />
     <state width="1878" height="242" key="GridCell.Tab.1.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066696" />
-    <state width="1398" height="193" key="GridCell.Tab.1.right" timestamp="1591627672806">
+    <state width="1398" height="193" key="GridCell.Tab.1.right" timestamp="1591646527907">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591627672806" />
+    <state width="1398" height="193" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591646527907" />
     <state width="1398" height="194" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1590003383456" />
     <state width="1878" height="242" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695479" />
     <state width="1878" height="242" key="GridCell.Tab.1.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066697" />
@@ -701,10 +650,10 @@
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1587609530678" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587614464231" />
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1587610633878" />
-    <state x="376" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1591624508677">
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1591836252894">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1591624508677" />
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1591836252894" />
     <state x="376" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1590674688062" />
     <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1587608840674" />
     <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1589075034833" />
@@ -725,10 +674,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="427" y="76" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1589509785830" />
-    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup" timestamp="1591236101384">
+    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup" timestamp="1591839142711">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591236101384" />
+    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591839142711" />
     <state x="385" y="197" width="670" height="599" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1588261562494" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587866408907" />
     <state x="1953" y="236" width="894" height="812" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1588476307767" />
@@ -745,11 +694,6 @@
           <url>file://$PROJECT_DIR$/src/Z_NOTES/Inheritance_AccessModifier_Overriding.java</url>
           <line>15</line>
           <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Day48_Abstraction/Abstraction02.java</url>
-          <line>2</line>
-          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

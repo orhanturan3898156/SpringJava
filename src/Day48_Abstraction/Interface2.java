@@ -4,7 +4,7 @@ public interface Interface2 {
     /*
     let's create an constructor
     public Interface2(){
-                                    >>>we cannot
+                                    >>>we cannot. We use Constructor for object. Here interface is pure abstract.Means not concrete.
     }
      */
 
@@ -14,7 +14,7 @@ public interface Interface2 {
                                    >>we cannot
 
     }
-    //while instance variable is not possible to give (it automatically static and final), we cannot create insante varibale and block
+    //while instance variable is not possible to give (it automatically static and final), we cannot create instance variable and block
 
 
      */
