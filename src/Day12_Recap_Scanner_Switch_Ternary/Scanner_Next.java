@@ -6,6 +6,7 @@ public class Scanner_Next {
 
     //Next is used for single word. it brings you a single word.first word
     //NextLine brings you everything
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String fullAddress = "";

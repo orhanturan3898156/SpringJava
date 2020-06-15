@@ -24,7 +24,7 @@ public class Replit32 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter seconds");
-        int seconds = scan.nextInt();
+        int seconds = scan.nextInt();//3695
 
         int hours = seconds / 3600;
         int minute = (seconds % 3600) / 60;

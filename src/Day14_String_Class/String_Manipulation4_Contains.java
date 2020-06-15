@@ -15,7 +15,7 @@ public class String_Manipulation4_Contains {
         valid password should not contain space/s
          */
 
-        String password = "mmasd 1235";
+        String password = "mmasd1235";
         if (password.contains(" ")) {
             System.out.println("Invalid- cannot have space");
 

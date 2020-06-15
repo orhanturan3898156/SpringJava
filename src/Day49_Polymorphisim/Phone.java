@@ -1,4 +1,4 @@
-package Day_49_Polymorphisim;
+package Day49_Polymorphisim;
 
 interface downloadable {
     boolean downloadable = true; //by default variable is final.
@@ -13,15 +13,15 @@ interface AndroidApps extends downloadable {//2 variables, 1 abstract method
 }
 
 interface AppleApps extends downloadable { //2 variables, 1 abstract method
-    String AppStoreName = "Apple"; //by default variable is "public static final
+    String AppStoreName = "Apple Store"; //by default variable is "public static final
 
 }
 
 public abstract class Phone {
-    static String brand;
-    String model;
-    double price;
-    String size;
+    public static String brand;
+    public String model;
+    public double price;
+    public String size;
 
 
     public abstract void texting(long phoneNumber);

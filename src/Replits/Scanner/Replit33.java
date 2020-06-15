@@ -37,16 +37,16 @@ New nonSeniorCitizens count 4
         int age;
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter current count for seniorCitizens and nonSeniorCitizens:");
-        seniorCitizen = scan.nextInt();
-        nonSeniorCitizen = scan.nextInt();
-        System.out.println("What is new citizen's age?");
+        seniorCitizen = scan.nextInt();//6
+        nonSeniorCitizen = scan.nextInt();//4
+        System.out.println("What is new citizen's age?");//78
         age=scan.nextInt();
 
         if (age>=65){
-            seniorCitizen+=1;
+            seniorCitizen++;
             System.out.println("Senior citizen");
         }else {
-            nonSeniorCitizen+=1;
+            nonSeniorCitizen++;
             System.out.println();
         }
         System.out.println("New seniorCitizens count ValueOfVariable: "+seniorCitizen);

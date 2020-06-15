@@ -6,7 +6,7 @@ public class Replit65 {
         You have a word, do the following:
 
         If the word has odd number of characters
-        and has 5 or more characters, print the middle three
+        and has 5 or more characters, print the middle three //fifteen
         characters of the word.
 
         Otherwise print "invalid".

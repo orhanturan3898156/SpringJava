@@ -2,8 +2,8 @@ package Day14_String_Class;
 public class String_Manipulation_Start_End_with {
     public static void main(String[] args) {
         String s1 = "United States";
-        System.out.println(s1.startsWith("U"));
-        System.out.println(s1.startsWith("u"));
+        System.out.println(s1.startsWith("U"));//true
+        System.out.println(s1.startsWith("u"));//false
 
         System.out.println("=================================\n");
 
@@ -49,7 +49,7 @@ public class String_Manipulation_Start_End_with {
         must end with .com, .edu,.org, .net,.or,.gov
          */
 
-        String websiteaddress = "wWw.orHanturan.com";
+        String websiteaddress = "wWw.orHanturan.net";
         websiteaddress=websiteaddress.toLowerCase();
 
         if (websiteaddress.startsWith("www.")) {

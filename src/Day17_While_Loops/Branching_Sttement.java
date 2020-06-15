@@ -7,7 +7,7 @@ public class Branching_Sttement {
         //continue>> skips current iteration
 
         for (int i=0;i<5;i++){
-            if (i%2!=0){
+            if (i==2){
 
                 System.exit(0); ///it is going to stop everything. "Hi will not be executied.
             }

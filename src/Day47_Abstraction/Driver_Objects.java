@@ -9,7 +9,7 @@ public class Driver_Objects {
 
         //When a regular class extends abstract class, it is require (MUST) all abstract methods
 
-        //However, if extends class is abstract,too, you dont need to override.
+        //However, if extends class is abstract,too, you dont need to override.Optional
         // we did't make it abstract, because we cannot create an object when it is abstract.
 
         driver.quit();

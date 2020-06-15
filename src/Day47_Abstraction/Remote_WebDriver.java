@@ -6,6 +6,7 @@ public abstract class Remote_WebDriver {
     //To be able to do it, we need to make this method to "abstraction"
     //Parallel to this , THE CLASS MUST BE "ABSTRACTION" , as well.
     // our method cannot be "PRIVATE". There is no way to override private method.
+    //Also, it cannot be FINAL and STATIC.
 
     //NOTE: if a class is final, we cannot use Abstraction. Because when use final key word, we cannot make inheritance.
     //Reason is when give final, we don't want to change it.

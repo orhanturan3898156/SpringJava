@@ -18,8 +18,8 @@ public class CheckWords {
         String word3 = scan.next();
 
         int lenght1 = word1.length();
-        int lenght2 = word1.length();
-        int lenght3 = word1.length();
+        int lenght2 = word2.length();
+        int lenght3 = word3.length();
         boolean notsame = lenght1 != lenght2 && lenght2 != lenght3 && lenght1 != lenght3;
 
         if (!notsame) {

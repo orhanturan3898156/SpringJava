@@ -18,11 +18,12 @@ public class Replit57 {
         System.out.println("Enter your full name");
         String fullName = scan.nextLine();
 
-        String firstName = fullName.substring(0, fullName.indexOf(" "));
-        System.out.println(firstName);
+        if (fullName.equals("Max Payne") || fullName.equals("Alan Wake")){
+            System.out.println("user found!");
+        }else {
+            System.out.println("not found");
+        }
 
-        String lastName = fullName.substring(fullName.indexOf(" ") + 1);
-        System.out.println(lastName);
 
 
     }

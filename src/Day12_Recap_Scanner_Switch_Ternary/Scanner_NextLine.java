@@ -10,7 +10,7 @@ public class Scanner_NextLine {
         String Bnum = scan.next();
         System.out.println("Building Number is: " + Bnum);
 
-        scan.nextLine(); //if you use NextLine after any step make sure to assign this
+        scan.nextLine();//if you use NextLine after any step make sure to assign this
 
         System.out.println("Street: ");
         String street = scan.nextLine();

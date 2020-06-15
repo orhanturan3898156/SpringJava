@@ -13,7 +13,7 @@ public class String_Manipulation {
 
         System.out.println("=================================\n");
 
-        String s="I like Java, and I like reading";
+        String s="I like Java, and I like reading ";
         int b1=s.lastIndexOf("I");
         System.out.println(b1);
 
@@ -24,7 +24,7 @@ public class String_Manipulation {
 
         System.out.println("=================================\n");
 
-        String z="I like C#, C# is cool";
+        String z="I like C#, C# is Cool";
         int c1=z.indexOf(", C");
         int c2=z.lastIndexOf("C");
         System.out.println(c1+1+1);

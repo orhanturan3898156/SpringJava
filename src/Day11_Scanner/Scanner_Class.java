@@ -11,6 +11,15 @@ public class Scanner_Class {
         int lnum = (int) scan.nextLong();
         System.out.println(lnum);
 
+        int a = scan.nextInt();
+        double b = scan.nextDouble();
+        boolean e=scan.nextBoolean();
+
+
+
+        String c = scan.next();//word Orhan
+        String d = scan.nextLine();//word word Orhan Turan
+
 
     }
 }
