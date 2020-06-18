@@ -10,6 +10,9 @@ public class Test {
         obj.setSSN(123456);
         System.out.println(obj.getSSN()); //123456
 
+        obj.setSSN(999666333);
+        System.out.println(obj.getSSN());
+
 
 
     }

@@ -1,4 +1,4 @@
-package Day50_Polymorphisim;
+package Day50_Polymorphism;
 
 public final class Dog extends Animal {
     /*
@@ -8,7 +8,7 @@ public final class Dog extends Animal {
      */
     public String dogName;
 
-    public Dog(String dogName, String gender, int age) {
+    public Dog(String dogName, int age, String gender) {
         this.dogName = dogName;
         this.gender = gender;
         this.age = age;
@@ -25,5 +25,6 @@ public final class Dog extends Animal {
     public void bark() {
         System.out.println("Dog " + dogName + " is barking");
     }
+
 
 }

@@ -11,6 +11,7 @@ class test { //parent
     public test() {
         System.out.println("super class default constructor");
     }
+
 }
 
 //        subclass           super class

@@ -1,4 +1,4 @@
-package Day50_Polymorphisim;
+package Day50_Polymorphism;
 /*
 Warmup tasks:
     1. cerate a class Animal
@@ -25,5 +25,9 @@ public abstract class Animal { //when we make this class abstract, we cannot cre
         System.out.println("Animal is sleeping");
     }
 
+
+    public static void methodA(){ //static method cannot be overriden.But overload
+        System.out.println("Animal");
+    }
 
 }

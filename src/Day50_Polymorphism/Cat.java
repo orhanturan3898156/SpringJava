@@ -1,4 +1,4 @@
-package Day50_Polymorphisim;
+package Day50_Polymorphism;
 
 /*
 2. create subclass of Animal named Cat

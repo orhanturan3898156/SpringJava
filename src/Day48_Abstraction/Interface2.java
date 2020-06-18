@@ -19,8 +19,10 @@ public interface Interface2 {
 
      */
 
+    public void method1();
 
     int a = 100; //Actually it looks like this "public  static  final int a = 100;"
+    public static final int b=200;
 
     public static void main(String[] args) {
 
@@ -35,6 +37,7 @@ public interface Interface2 {
     public static void method4() {
 
     }
+
     void method5();
 
 }

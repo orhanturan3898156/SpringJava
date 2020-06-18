@@ -3,34 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day11_Scanner/Scanner_Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day11_Scanner/Scanner_Class.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day12_Recap_Scanner_Switch_Ternary/Scanner_Next.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day12_Recap_Scanner_Switch_Ternary/Scanner_Next.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/CheckWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/CheckWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/String_Manipulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/String_Manipulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/String_Manipulation4_Contains.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/String_Manipulation4_Contains.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/String_Manipulation_Start_End_with.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day14_String_Class/String_Manipulation_Start_End_with.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day17_While_Loops/Branching_Sttement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day17_While_Loops/Branching_Sttement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day17_While_Loops/Warm_Up_Max_and_Mim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day17_While_Loops/Warm_Up_Max_and_Mim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day17_While_Loops/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Replits/String_Manupilation/Replit57.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Replits/String_Manupilation/Replit57.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Replits/String_Manupilation/Replit73.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Replits/String_Manupilation/Replit73.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Self_Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Self_Study.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day11_Scanner/Scanner_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day11_Scanner/Scanner_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day12_Recap_Scanner_Switch_Ternary/Scanner_Next.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12_Recap_Scanner_Switch_Ternary/Scanner_Next.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day12_Recap_Scanner_Switch_Ternary/Scanner_NextLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day12_Recap_Scanner_Switch_Ternary/Scanner_NextLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day14_String_Class/CheckWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day14_String_Class/CheckWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day14_String_Class/String_Manipulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day14_String_Class/String_Manipulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day14_String_Class/String_Manipulation4_Contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day14_String_Class/String_Manipulation4_Contains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day14_String_Class/String_Manipulation_Start_End_with.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day14_String_Class/String_Manipulation_Start_End_with.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day17_While_Loops/Branching_Sttement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day17_While_Loops/Branching_Sttement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day17_While_Loops/Warm_Up_Max_and_Mim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day17_While_Loops/Warm_Up_Max_and_Mim.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day17_While_Loops/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day18_Nested_Loop_DoWhile/Do_While_Loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day18_Nested_Loop_DoWhile/Do_While_Loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/Driver_Objects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/Driver_Objects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/Remote_WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/Remote_WebDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day49_Polymorphisim/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day49_Polymorphisim/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphisim/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphisim/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphisim/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphisim/ZZZOrder.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" afterDir="false" />
@@ -40,11 +18,6 @@
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Ternary_Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Ternary_Practice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Scanner/Replit32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Scanner/Replit32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/Scanner/Replit33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/Scanner/Replit33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/String_Manupilation/Replit57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/String_Manupilation/Replit57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/String_Manupilation/Replit65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/String_Manupilation/Replit65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Self_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Self_Study.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +57,13 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Self_Study">
-    <configuration name="Replit33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replits.Scanner.Replit33" />
+  <component name="RunManager" selected="Application.ShapesObjects">
+    <configuration name="Constructor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day42_Inheritance.Constructor2" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Replits.Scanner.*" />
+          <option name="PATTERN" value="Day42_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replit57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replits.String_Manupilation.Replit57" />
+    <configuration name="Exception_Handling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day44_Exceptions.Exception_Handling" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Replits.String_Manupilation.*" />
+          <option name="PATTERN" value="Day44_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Self_Study" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Self_Study" />
-      <module name="SpringJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="String_Manipulation4_Contains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day14_String_Class.String_Manipulation4_Contains" />
+    <configuration name="Reference_Type_Casting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day50_Polymorphism.Reference_Type_Casting" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day14_String_Class.*" />
+          <option name="PATTERN" value="Day50_Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +97,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String_Manipulation_Start_End_with" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day14_String_Class.String_Manipulation_Start_End_with" />
+    <configuration name="ShapesObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day51_Recap.ShapesObjects" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day14_String_Class.*" />
+          <option name="PATTERN" value="Day51_Recap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Try_and_Catch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day44_Exceptions.Try_and_Catch" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day44_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Self_Study" />
-        <item itemvalue="Application.Replit57" />
-        <item itemvalue="Application.Replit33" />
-        <item itemvalue="Application.String_Manipulation_Start_End_with" />
-        <item itemvalue="Application.String_Manipulation4_Contains" />
+        <item itemvalue="Application.ShapesObjects" />
+        <item itemvalue="Application.Reference_Type_Casting" />
+        <item itemvalue="Application.Exception_Handling" />
+        <item itemvalue="Application.Try_and_Catch" />
+        <item itemvalue="Application.Constructor2" />
       </list>
     </recent_temporary>
   </component>
@@ -533,10 +512,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1592230805734">
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1592491024164">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1592230805734" />
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1592491024164" />
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591536443189" />
     <state x="2213" y="264" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1589080083104" />
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589645235122" />
@@ -573,10 +552,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1592096511642">
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1592495943821">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591928156461" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592495943821" />
     <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1591234776736" />
     <state width="982" height="131" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1590609828873" />
     <state width="1398" height="166" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592096511642" />
@@ -584,10 +563,10 @@
     <state width="1398" height="166" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1592062757549" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104150" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155013" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1592096511638">
+    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1592495943819">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591928156459" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592495943819" />
     <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1591234776730" />
     <state width="982" height="131" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="166" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592096511638" />
@@ -595,10 +574,10 @@
     <state width="1398" height="166" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1592062757547" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104141" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155010" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1592096511636">
+    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1592495943818">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591928156458" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592495943818" />
     <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1591234776728" />
     <state width="982" height="131" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="166" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592096511636" />
@@ -606,10 +585,10 @@
     <state width="1398" height="166" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1592062757546" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104139" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155009" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1592096511640">
+    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1592495943820">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591928156460" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592495943820" />
     <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1591234776731" />
     <state width="982" height="131" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1590609828872" />
     <state width="1398" height="166" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592096511640" />
@@ -669,10 +648,10 @@
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.803@0.23.1440.803" timestamp="1587609530678" />
     <state x="320" y="157" key="Vcs.Push.Dialog.v2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587614464231" />
     <state x="320" y="163" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.23.1440.803@0.23.1440.803" timestamp="1587610633878" />
-    <state x="376" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1592229859162">
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog" timestamp="1592435248019">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1592229859162" />
+    <state x="376" y="261" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1592435248019" />
     <state x="376" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.797@0.23.1440.797" timestamp="1590674688062" />
     <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.803@0.23.1440.803" timestamp="1591925249210" />
     <state x="376" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.805@0.23.1440.805" timestamp="1589075034833" />
@@ -693,10 +672,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="427" y="76" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1589509785830" />
-    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup" timestamp="1591839142711">
+    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup" timestamp="1592238222840">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591839142711" />
+    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592238222840" />
     <state x="385" y="197" width="670" height="599" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1588261562494" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587866408907" />
     <state x="1953" y="236" width="894" height="812" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1588476307767" />
