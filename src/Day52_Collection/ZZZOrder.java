@@ -2,6 +2,17 @@ package Day52_Collection;
 
 public class ZZZOrder {
     /*
+    Lists
+     Q
+    sets
+
+    null_Keyword
+    Collections_Utility
+
+
+
+    Collection:Group of individual objects as single entity.
+
     Data Structures: in order to manage the data efficiently and in an organized manner.
 
      1-Array : it is for storing data. Size is fixed in Array,but dynamic in ArrayList.
@@ -21,7 +32,7 @@ public class ZZZOrder {
        2-Hold different type data
 
      Collections Framework: consists of multiple interfaces.Each interfaces has multiple implementations.
-     -All the classes nad interfaces are presented in "java.util"
+     -All the classes and interfaces are presented in "java.util"
      Iterable(I):root interface.super type of all interfaces in collections framework.
      Collection(I):extended by List(I),Set(I),Queue(I).
 
@@ -38,13 +49,14 @@ public class ZZZOrder {
 
    3_ Vector:Similar to ArrayList. It is array based class
       Difference between Vector and ArrayList: vector is synchronized. What is synchronized?
-      synchronized: used for achieving thread-safety.
+      synchronized: used for achieving thread-safety. ATM man-woman
        -advantage: thread safe
        -disadvantage: slower
 
       thread: process of operating system scheduling object.
 
-      Stack:extends to Vector.It has synchronized key word as well.array based class. Last in First Out.
+      Stack:extends to Vector.It has synchronized key word as well.array based class.
+        ****  Last in First Out.  **** pop() method
 
 
       -------------------------------------------------------------------------------------------------------------------------
@@ -53,7 +65,8 @@ public class ZZZOrder {
       -size is dynamic.
       -there is no index number in Queue.(difference with List)
       -It accepts duplicate.
-      -Unique action for Queue: First in first out. poll() method.
+      -Unique action for Queue:
+      *****First in first out. poll() method.*****
 -------------------------------------------------------------------------------------------------------------------------
 
       Set(I): it does not accept duplicate and there is no index number.
@@ -61,11 +74,13 @@ public class ZZZOrder {
       --HashSet<>(): not in insertion order. it is also faster than LinkedHashSet<>().
 
       --SortedSet(I): extends to Set. sorted set is implemented by TreeSet.
-        TreeSEt(C): remove duplicate and sort at the same time.
+        TreeSet(C): remove duplicate and sort at the same time.
 
-
-
-
+        HashSet vs TreeSet
+         -HashSet accepts Null.TreeSet does not.
+           Null:default value of all reference type.Does not refers to any key word.
+           Null is not instance of anything.
+           Hashset is raster than TreeSet
 
 
 

@@ -20,14 +20,14 @@ public class AnimalObjects {
         driver.get();
 
          */
-
+        //ref typ          obj type
         Dog obj1 = new Dog("Lucy", 3, "F");
         System.out.println(obj1.dogName);
         obj1.bark();
 
         Animal obj2 = new Dog("Kito", 3, "F");
-        // System.out.println(obj2.dogName); We cannot call DogName variable,because dogName variable is in Dog class not Animal.
-        //obj2.bark(); Cannot access
+        //System.out.println(obj2.dogName); //We cannot call DogName variable,because dogName variable is in Dog class not Animal.
+        //obj2.bark(); //Cannot access
 
         obj2.eat(); //it returns us overridden method.Means it calls the method in Dog class.
 
@@ -42,6 +42,8 @@ public class AnimalObjects {
         Dog d1 = new Dog("B", 3, "M");
         //boolean r1=d1 instanceof Cat;  there is no "is relation"
         //to be able to use this key word, there has to be a "is relation".
+
+
 
     }
 }

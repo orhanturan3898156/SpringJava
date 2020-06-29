@@ -6,7 +6,7 @@ public final class Circle extends Shape {
 
     public Circle(double radius){
         this.radius=radius;
-    }
+    }//constructor
 
     @Override
     public void Area() {//when override, we can give the same or more visible access modifier

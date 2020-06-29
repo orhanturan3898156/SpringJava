@@ -6,7 +6,7 @@ public interface Interface3 {
 
     public abstract void method2();
 
-    static final int num = 100;
+    public static final int num = 100;
     int num2 = 300; //this is not instance,beacuse by default it has static and final words.
 
     public static void main(String[] args) {

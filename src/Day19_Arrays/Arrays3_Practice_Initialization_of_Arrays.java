@@ -1,5 +1,6 @@
 package Day19_Arrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Arrays3_Practice_Initialization_of_Arrays {
@@ -24,6 +25,7 @@ public class Arrays3_Practice_Initialization_of_Arrays {
 
 
         String[] testers=new String[3]; //{"Reem","Medine","Osman"}
+        System.out.println(Arrays.toString(testers));
 
         testers[0]="Reem";
         testers[1]="Medina";

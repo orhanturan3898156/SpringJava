@@ -3,9 +3,71 @@
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Array_Self.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Arrays1_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Arrays1_Intro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Arrays2_Practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Arrays2_Practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Arrays3_Practice_Initialization_of_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Arrays3_Practice_Initialization_of_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day19_Arrays/TestArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day1_5/ArithmeticOperators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day1_5/BooleanAndChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day1_5/Boolean_Char_Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day1_5/ContinueVariables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day21_Arrays/Multi_Dimensional_Arrays1_ScrumTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day21_Arrays/Multi_Dimensional_Arrays1_ScrumTeam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day21_Arrays/String_Methods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day21_Arrays/String_Methods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Encapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Encapsulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/Final_Variable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/shape_object.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day46_Final_Abstract/shape_object.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day48_Abstraction/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day48_Abstraction/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Polymorphism_Intro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Polymorphism_Intro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Robot.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/Robot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/iPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day49_Polymorphisim/iPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/AnimalObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/AnimalObjects.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/Reference_Type_Casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day50_Polymorphism/Reference_Type_Casting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day52_Collection/sets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day52_Collection/sets.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Self_Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Self_Study.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19_Arrays/Array_Self.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19_Arrays/Arrays1_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day19_Arrays/Arrays1_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19_Arrays/Arrays2_Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day19_Arrays/Arrays2_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19_Arrays/Arrays3_Practice_Initialization_of_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day19_Arrays/Arrays3_Practice_Initialization_of_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19_Arrays/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day19_Arrays/TestArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1_5/ArithmeticOperators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1_5/BooleanAndChar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1_5/Boolean_Char_Practice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day1_5/ContinueVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day20_Arrays/Arrays_Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day20_Arrays/Arrays_Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day21_Arrays/Multi_Dimensional_Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day21_Arrays/Multi_Dimensional_Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day21_Arrays/Multi_Dimensional_Arrays1_ScrumTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day21_Arrays/Multi_Dimensional_Arrays1_ScrumTeam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day21_Arrays/String_Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day21_Arrays/String_Methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/Final_Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day46_Final_Abstract/shape_object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day46_Final_Abstract/shape_object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/Abstract_VS_NonAbstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/Abstract_VS_NonAbstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day47_Abstraction/Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day47_Abstraction/Summary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day48_Abstraction/Interface3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day48_Abstraction/Interface3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day48_Abstraction/Interface_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day48_Abstraction/Interface_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day48_Abstraction/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day48_Abstraction/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day49_Polymorphisim/Polymorphism_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day49_Polymorphisim/Polymorphism_Intro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day49_Polymorphisim/iPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day49_Polymorphisim/iPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphism/AnimalObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day50_Polymorphism/AnimalObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphism/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day50_Polymorphism/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphism/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day50_Polymorphism/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphism/Recap_Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day50_Polymorphism/Recap_Summary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphism/Reference_Type_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day50_Polymorphism/Reference_Type_Casting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day50_Polymorphism/ZZZOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day50_Polymorphism/ZZZOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day52_Collection/ZZZOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day52_Collection/ZZZOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day52_Collection/sets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day52_Collection/sets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" afterDir="false" />
@@ -15,6 +77,7 @@
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Ternary_Practice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Ternary_Practice2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Office_Hours/Practice_05_06_2020_CustomClass/Developer_Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Self_Study.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Self_Study.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +117,9 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.sets">
-    <configuration name="Divisible_by_3_and_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day16_For_Loop.Divisible_by_3_and_5" />
-      <module name="SpringJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day16_For_Loop.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day52_Collection.Lists" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="Collections_Utility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day52_Collection.Collections_Utility" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
@@ -81,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day52_Collection.Q" />
+    <configuration name="Iterating_collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day53_Iterator_Maps.Iterating_collection" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day52_Collection.*" />
+          <option name="PATTERN" value="Day53_Iterator_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,19 +144,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Self_Study" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Self_Study" />
+    <configuration name="Iterating_collection2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day53_Iterator_Maps.Iterating_collection2" />
       <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day53_Iterator_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day52_Collection.sets" />
+    <configuration name="Map_Intro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day54_Maps.Map_Intro" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day52_Collection.*" />
+          <option name="PATTERN" value="Day54_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day54_Maps.Practice" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day54_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,16 +185,16 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sets" />
-        <item itemvalue="Application.Q" />
-        <item itemvalue="Application.Lists" />
-        <item itemvalue="Application.Self_Study" />
-        <item itemvalue="Application.Divisible_by_3_and_5" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.Map_Intro" />
+        <item itemvalue="Application.Iterating_collection2" />
+        <item itemvalue="Application.Iterating_collection" />
+        <item itemvalue="Application.Collections_Utility" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -503,11 +572,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit123" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1592491024164">
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser" timestamp="1593037407897">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1592491024164" />
-    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1591536443189" />
+    <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593037407897" />
     <state x="2213" y="264" key="#com.intellij.ide.util.MemberChooser/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1589080083104" />
     <state x="580" y="220" key="#com.intellij.ide.util.MemberChooser/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589645235122" />
     <state x="492" y="339" width="455" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588903288405">
@@ -518,10 +587,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="481" y="28" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1592836720980" />
-    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590115147978">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593390579426">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1590115147978" />
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.797@0.23.1440.797" timestamp="1593390579426" />
     <state x="2051" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1589080845495" />
     <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1588631537267">
       <screen x="0" y="0" width="1440" height="900" />
@@ -543,75 +613,75 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom" timestamp="1592844217961">
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom" timestamp="1593442143120">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1592844217961" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1592843329958" />
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593442143120" />
+    <state width="1398" height="136" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593312460882" />
     <state width="982" height="131" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1590609828873" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592657563014" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593268554813" />
     <state width="1878" height="166" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784627" />
-    <state width="1398" height="166" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1592062757549" />
+    <state width="1398" height="166" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593272092342" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104150" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155013" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center" timestamp="1592844217959">
+    <state width="1398" height="165" key="GridCell.Tab.0.center" timestamp="1593442143118">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1592844217959" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1592843329956" />
+    <state width="1398" height="165" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1593442143118" />
+    <state width="1398" height="136" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1593312460881" />
     <state width="982" height="131" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592657563012" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593268554810" />
     <state width="1878" height="166" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784624" />
-    <state width="1398" height="166" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1592062757547" />
+    <state width="1398" height="166" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593272092340" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104141" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155010" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left" timestamp="1592844217958">
+    <state width="1398" height="165" key="GridCell.Tab.0.left" timestamp="1593442143117">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1592844217958" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1592843329954" />
+    <state width="1398" height="165" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1593442143117" />
+    <state width="1398" height="136" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1593312460881" />
     <state width="982" height="131" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592657563009" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593268554808" />
     <state width="1878" height="166" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784620" />
-    <state width="1398" height="166" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1592062757546" />
+    <state width="1398" height="166" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593272092339" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104139" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155009" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right" timestamp="1592844217960">
+    <state width="1398" height="165" key="GridCell.Tab.0.right" timestamp="1593442143119">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1592844217960" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1592843329957" />
+    <state width="1398" height="165" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1593442143119" />
+    <state width="1398" height="136" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1593312460882" />
     <state width="982" height="131" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1590609828872" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592657563013" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593268554812" />
     <state width="1878" height="166" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784625" />
-    <state width="1398" height="166" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1592062757548" />
+    <state width="1398" height="166" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593272092341" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104145" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155011" />
-    <state width="1398" height="193" key="GridCell.Tab.1.bottom" timestamp="1591646527908">
+    <state width="1398" height="193" key="GridCell.Tab.1.bottom" timestamp="1593104035453">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591646527908" />
+    <state width="1398" height="193" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1593104035453" />
     <state width="1398" height="194" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1590003383457" />
     <state width="1878" height="242" key="GridCell.Tab.1.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695482" />
     <state width="1878" height="242" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066698" />
-    <state width="1398" height="193" key="GridCell.Tab.1.center" timestamp="1591646527907">
+    <state width="1398" height="193" key="GridCell.Tab.1.center" timestamp="1593104035452">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1591646527907" />
+    <state width="1398" height="193" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1593104035452" />
     <state width="1398" height="194" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1590003383455" />
     <state width="1878" height="242" key="GridCell.Tab.1.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695477" />
     <state width="1878" height="242" key="GridCell.Tab.1.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066697" />
-    <state width="1398" height="193" key="GridCell.Tab.1.left" timestamp="1591646527906">
+    <state width="1398" height="193" key="GridCell.Tab.1.left" timestamp="1593104035451">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1591646527906" />
+    <state width="1398" height="193" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1593104035451" />
     <state width="1398" height="194" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1590003383454" />
     <state width="1878" height="242" key="GridCell.Tab.1.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695474" />
     <state width="1878" height="242" key="GridCell.Tab.1.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066696" />
-    <state width="1398" height="193" key="GridCell.Tab.1.right" timestamp="1591646527907">
+    <state width="1398" height="193" key="GridCell.Tab.1.right" timestamp="1593104035452">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="193" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1591646527907" />
+    <state width="1398" height="193" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1593104035452" />
     <state width="1398" height="194" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1590003383456" />
     <state width="1878" height="242" key="GridCell.Tab.1.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591451695479" />
     <state width="1878" height="242" key="GridCell.Tab.1.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1591458066697" />
@@ -619,15 +689,16 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="473" y="178" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1591236171286" />
-    <state x="229" y="42" key="SettingsEditor" timestamp="1592835186032">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="229" y="60" key="SettingsEditor" timestamp="1593390620018">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
-    <state x="229" y="42" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592835186032" />
+    <state x="229" y="42" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593285297750" />
+    <state x="229" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1593390620018" />
     <state x="229" y="60" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1587608807179" />
-    <state x="229" y="42" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592648701917" />
+    <state x="229" y="42" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593260349267" />
     <state x="1745" y="50" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591449255022" />
     <state x="1745" y="50" key="SettingsEditor/1440.0.1920.1080/0.23.1440.877@1440.0.1920.1080" timestamp="1589074911328" />
-    <state x="229" y="42" key="SettingsEditor/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1589120093354" />
+    <state x="229" y="42" key="SettingsEditor/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593270542687" />
     <state width="254" height="200" key="ShowFilterAction_Filter_Popup" timestamp="1591236101390">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -650,11 +721,12 @@
     <state x="1941" y="313" key="com.intellij.ide.util.TipDialog/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1589116537627" />
     <state x="376" y="254" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1590882339962" />
     <state x="1941" y="329" key="com.intellij.ide.util.TipDialog/1440.23.1920.1057/0.23.1440.797@1440.23.1920.1057" timestamp="1590933083154" />
-    <state x="499" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1589405745854">
+    <state x="499" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592995866601">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="499" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900@0.0.1440.900" timestamp="1589405745854" />
     <state x="499" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1588213798203" />
+    <state x="499" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1592995866601" />
     <state x="114" y="54" key="new project wizard" timestamp="1589747340245">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -663,13 +735,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="427" y="76" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1589509785830" />
-    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup" timestamp="1592238222840">
+    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup" timestamp="1593270464347">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1592238222840" />
+    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1593103153788" />
     <state x="385" y="197" width="670" height="599" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1588261562494" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1587866408907" />
     <state x="1953" y="236" width="894" height="812" key="search.everywhere.popup/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1588476307767" />
+    <state x="385" y="197" width="671" height="677" key="search.everywhere.popup/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593270464347" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

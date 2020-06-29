@@ -28,6 +28,6 @@ public final class Cat extends Animal {//if we want Cat class to be not parent o
     }
 
     public void scratch() {
-
+        System.out.println("cat is scatching");
     }
 }

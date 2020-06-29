@@ -1,5 +1,8 @@
 package Day49_Polymorphisim;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 /*
      Polymorphisim: object's behave in different forms
 
@@ -32,13 +35,18 @@ class Robot {
 public class Polymorphism_Intro {
     //pre-condition of polymorphisim is "there has to be 'is relation'."
     public static void main(String[] args) {
+        Dog dog1=new Dog();
+
         //Animal obj = new Animal();
         Animal obj2 = new Dog();
+        //reference type   object type
         Animal obj3 = new Cat(); //it can be Dog(); as well.
 
         //Dog obj4=new Cat(); error
         Dog obj5 = new Dog();
         Cat obj6 = new Cat();
+
+       // ArrayList<Animal> listOfDog=new ArrayList<>(Arrays.asList(obj5,obj6));
 
 
         //String[] animalshow={obj2,obj3,obj5,obj6}; it is not string

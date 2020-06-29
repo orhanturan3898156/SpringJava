@@ -1,5 +1,7 @@
 package Day21_Arrays;
 
+import java.util.Arrays;
+
 public class Multi_Dimensional_Arrays1_ScrumTeam {
     public static void main(String[] args) {
 
@@ -13,6 +15,7 @@ public class Multi_Dimensional_Arrays1_ScrumTeam {
 
         String[][] scrumteam = {devTeam, testers, PO};
         System.out.println(scrumteam[1]);
+        System.out.println(Arrays.toString(scrumteam[1]));
 
 
         System.out.println("\n================================\n");

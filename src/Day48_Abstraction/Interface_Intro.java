@@ -35,13 +35,13 @@ public interface Interface_Intro { //this is not a class,but interface.
     // when Interface, we don't have to give abstract key word.
     public abstract void method1(); // in normal class this is how we create an abstract class
 
-    public void method2(); //by default public is here
+     void method2(); //by default public is here
 
     //it can be only public
     //Interface cannot be SuperClass,but supertype.
     //we will use "implements" key word when inherit.instead of "extends"
 
-    void method3();//by default it is already public, not default.
+    public abstract void method3();//by default it is already public, not default.
 
     // protected void method4(); WE CANNOT give PROTECTED, and PRIVATE
 

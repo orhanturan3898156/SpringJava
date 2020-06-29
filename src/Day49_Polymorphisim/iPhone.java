@@ -1,6 +1,6 @@
 package Day49_Polymorphisim;
 
-public final class iPhone extends Phone implements AppleApps { //the reason we make it final is any iphone infor could not be used by another one
+public  class iPhone extends Phone implements AppleApps { //the reason we make it final is any iphone infor could not be used by another one
 
     static {
         brand = "Apple";

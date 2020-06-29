@@ -16,14 +16,9 @@ public class Final_Method {
 
     }
 
-    public  Final_Method(){ //WE CANNOT apply FINAL keyword to constructor.FINAL doesn't work with final.
+    public Final_Method() { //WE CANNOT apply FINAL keyword to constructor.FINAL doesn't work with final.
 
     }
-
-
-
-
-
 
 
 }

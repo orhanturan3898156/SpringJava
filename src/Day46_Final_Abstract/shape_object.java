@@ -15,5 +15,7 @@ public class shape_object {
 
         rectangle obj3 = new rectangle(3, 5);
         obj3.Area();
+
+        obj3.method1();
     }
 }

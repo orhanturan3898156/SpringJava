@@ -25,7 +25,7 @@ class Test1 {
 
     }
 
-    // public abstract void method3(){} >>>we cannot create abstract method , in non-abstract class.
+     //public abstract void method3(); //>>>we cannot create abstract method , in non-abstract class.
     int a = 100;
     static int b = 200;
 

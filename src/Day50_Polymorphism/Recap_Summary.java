@@ -6,7 +6,7 @@ public class Recap_Summary {
     OOP: Encapsulation, Inheritance,Abstraction, Polymorphism
 
     1_Encapsulation: It helps to hiding data by giving private key word.Use public getter and setter methods to access them.
-        getter: it is for READ ONLY. means you cannot read
+        getter: it is for READ ONLY. means you cannot write/modify/change.
         setter: you can re-assign/modify a new value to data you have.
       *If private data is final, we cannot reassigned/modify. Setter will complains.but you can still use getter method.
 
@@ -16,6 +16,7 @@ public class Recap_Summary {
         super class: cannot inherit anything from child class. benefit of super class is using it in Polymorphism.
         sub class  :can inherit VISIBLE variables and VISIBLE methods from super class.
         **Constructor CANNOT be inherited.
+
      -"extends" keyword is used for inheritance.
      -To be able to "override" we have to have inheritance.sub and super class.
      What advantages we get by applying inharitance?
@@ -28,7 +29,7 @@ public class Recap_Summary {
 
   ---------------------------------------------------------------------------------
 
-   3_Abstraction: hiding implementation details.Focusing on essentials/importance withour worrying about details.
+   3_Abstraction: hiding implementation details.Focusing on essentials/importance without worrying about details.
       -It does NOT have  BODY.***Only thing in Java doesn't have body.
       -We will need to override. Pre condition of overriding is inheritance.
       -Then,Abstract keyword is used to achieve this purposes. Both method/s and super class itself.
@@ -39,7 +40,7 @@ public class Recap_Summary {
       -If we make subclass abstract, we don't have to override.However, we cannot create an object.
 
 
-      WebDriver:
+      WebDriver:  WebDriver driver=new ChromeDriver()
              get() :
              quit():
 
@@ -73,7 +74,7 @@ public class Recap_Summary {
 
            extends vs implements;
            class  extends    class //same type
-           interface extends intends  //same type
+           interface extends interface  //same type
 
            class implements interface //different type
 

@@ -14,7 +14,7 @@ public class Arrays2_Practice {
         String name1 = friends[2];
         System.out.println(name1);
 
-        for (int i = 0; i <= 4; i++) {
+        for (int i = 0; i <friends.length; i++) {
             String names = friends[i];
             System.out.println(names);
         }

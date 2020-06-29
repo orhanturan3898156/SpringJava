@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Arrays_Sorting {
     public static void main(String[] args) {
         /*
-        Arrays.sort(arrayName): sort hte given array in ascending order
+        Arrays.sort(arrayName): sort te given array in ascending order
 
          */
         int[] arr1 = {9, 8, 7, 6, 5, 4, 3, 2, 1};

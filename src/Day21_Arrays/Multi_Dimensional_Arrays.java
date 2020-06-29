@@ -16,14 +16,14 @@ public class Multi_Dimensional_Arrays {
 
         //  index         0  1  2     0 1  2
         int[][] arr2D = {{1, 2, 3}, {4, 5,6, 7}};
-        //// index        0,       1
+        //// index        0,           1
 
         System.out.println(arr2D.length);
 
         int[] arr1D = arr2D[0];  //{1,2,3}
         System.out.println(Arrays.toString(arr2D[1]));
 
-        int num1= arr2D[1][3];
+        int num1= arr2D[1][3];//
         System.out.println(num1);
 
         System.out.println("=============================");

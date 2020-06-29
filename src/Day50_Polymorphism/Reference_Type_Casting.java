@@ -9,6 +9,7 @@ public class Reference_Type_Casting {
     byte < short < int < long < float < double
       -Implicit Casting:Done automatically by Java.
          Ex: int num=100;
+             double num1=num;
 
       -Explicit Casting:must be done by user. casting larger type to smaller type. Manually.
          Ex: int a=200;
@@ -25,6 +26,7 @@ public class Reference_Type_Casting {
 
         int a = 100;
         double b = (double) a; //100.00 automatically.not require
+
 
         Dog dog = new Dog("a", 1, "m");
         Animal animal1 = (Animal) dog;//upcasting,done implicitly.
@@ -58,6 +60,7 @@ public class Reference_Type_Casting {
 
         //second way-easier
         ((Dog) animal5).bark();
+
 
         //we will see this,when take screenshot, and script executer
 

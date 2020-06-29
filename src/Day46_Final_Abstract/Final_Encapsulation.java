@@ -7,9 +7,10 @@ public class Final_Encapsulation {
     final private int data1 = 200; //get , no set
     private int data2 = 300; //gwt, set
 
-    public int getData1() {
+    public int getData1() {//read only
         return data1;
     }
+
 
     public void setData1(int data1) {
         // this.data1=data1; when give final key word any of above private data , we can create getter ,but not SETTER.

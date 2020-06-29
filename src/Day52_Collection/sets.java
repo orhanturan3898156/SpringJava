@@ -39,5 +39,13 @@ public class sets {
 
         System.out.println(numbers); //will return [1, 2, 5, 6, 7, 8, 9, 10]
 
+        System.out.println("=================================================");
+
+        TreeSet<String> treeSet = new TreeSet<>();
+       // treeSet.add(null);//return NullPointerException
+
+        System.out.println(treeSet);
+
+
     }
 }

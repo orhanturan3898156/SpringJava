@@ -1,5 +1,7 @@
-import java.util.Arrays;
-import java.util.Scanner;
+import org.w3c.dom.ls.LSOutput;
+
+import javax.crypto.spec.PSource;
+import java.util.*;
 
 public class Self_Study {
 
@@ -9,71 +11,13 @@ public class Self_Study {
         //gift card 035
         //Replit 047,056 back to look
 
-        // username=cybertek
-        //password=cybertek123
+        int[] numbers={1,2,3,4,5};
+        System.out.println(numbers);
+        System.out.println(Arrays.toString(numbers));
 
-
-        Scanner input = new Scanner(System.in);
-        System.out.println("Enter User name");
-        String username = input.next();
-
-        System.out.println("Enter Pass Word");
-        String password = input.next();
-
-        boolean valid = (username.equals("cybertek") && password.equals("cybertek123")); // false
-        // validating the first username and password
-
-        int count = 1;
-/*
-        while( ! valid   ){
-            // !true
-            System.out.println("Please re enter your credentions");
-            System.out.println("Enter User name");
-            username  = input.next();
-
-            System.out.println("Enter Pass Word");
-            password  = input.next();
-
-            valid = (username.equals("cybertek") && password.equals("cybertek123") );  // true
-            // validating new username and passwords
-
-            count++;
-            if(count ==3 && ! valid ){ // already have three attempts and credentials are still incorrect
-                System.out.println("Your account is locked");
-                break;
-            }
-
-        }
-
- */
-
-
-        if (valid) { // credentials are correct
-            System.out.println("logged in");
-        }
-
-        if (!valid) {
-            while (!valid) {
-                System.out.println("re-enter");
-                System.out.println("Enter User name");
-                username = input.next();
-
-                System.out.println("Enter Pass Word");
-                password = input.next();
-                count++;
-
-                valid = (username.equals("cybertek") && password.equals("cybertek123")); // false
-                if (valid) {
-                    System.out.println("logged in");
-                    break;
-                }
-                if(count==3 && !valid){
-                    System.out.println("locked");
-                    break;
-                }
-
-            }
-        }
+        int[][] arr={{1,2,3},{4,5,6,7}};
+        System.out.println(Arrays.toString(arr));
+        System.out.println(Arrays.deepToString(arr));
 
 
     }

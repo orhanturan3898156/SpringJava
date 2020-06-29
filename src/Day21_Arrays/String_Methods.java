@@ -23,6 +23,8 @@ public class String_Methods {
          */
 
         String str = "I like Java";
+       // char[] arr5=str.toCharArray();
+        //System.out.println(Arrays.toString(arr5));
 
         String[] arr = str.split(" ");
         System.out.println(Arrays.toString(arr));

@@ -23,6 +23,7 @@ public class Arrays1_Intro {
         int num2 = scores[5];
         scores[2] = 2345;  /// we asssigned a new value for index number 2
 
+
         System.out.println(num1);
         System.out.println(num2);
         System.out.println(scores[2]);
