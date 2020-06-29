@@ -5,6 +5,8 @@ public class ZZZOrder {
 
     Map_Intro
     Practice
+    Set Entries
+    Map_SetEntries
 
 
 
@@ -29,6 +31,17 @@ public class ZZZOrder {
      --remove(Key) --> to remove any object
 
      NOTE: map doesn't accept duplicate Key value.
+
+     ContainsKey()--checks if value and key contains or not.
+     clear():removes all objects.
+     isEmpty(): it checks if it is empty or not.returns boolean.
+
+     keySet(): returns all the key as Set.
+     values(): returns all values from the map as collection
+     setEntry():
+
+
+
 
 
 
