@@ -7,6 +7,11 @@ public class ZZZOrder {
     Practice
     Set Entries
     Map_SetEntries
+    Garbage_Collector -finalize
+    String_VS_Buffer_VS_Builder
+
+    enum-Test
+    browsers-test
 
 
 
@@ -40,6 +45,20 @@ public class ZZZOrder {
      values(): returns all values from the map as collection
      setEntry():
 
+
+     Entry <Key, Value>
+        getKey():returns key
+        getvalue=returns value
+
+---------------------------
+HashMap: accepts "null" .do not keeps the insertion as it is
+
+HashTable: is synchronized.slower.Thread Safe.=>one thread at the time.
+Thread is the process of scheduling objects' order. does not accept "null".
+
+LinkedHashMap:keeps the insertion as it is. adding(put) and removing is faster
+
+TreeMap:sorts the Keys in ascending order.does not accept "null".
 
 
 
