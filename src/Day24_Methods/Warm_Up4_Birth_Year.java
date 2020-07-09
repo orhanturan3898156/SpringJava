@@ -1,9 +1,11 @@
 package Day24_Methods;
 
+import java.time.LocalDate;
+
 public class Warm_Up4_Birth_Year {
 
     public static void age(int birthyear) {
-        int currentyear = 2020;
+        int currentyear = LocalDate.now().getYear();
         if (birthyear < currentyear && birthyear > 1900) {
             System.out.println(currentyear - birthyear);
         } else {

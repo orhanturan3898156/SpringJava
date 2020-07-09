@@ -11,6 +11,7 @@ public class Lists {
 
         List<Integer> list1 = new ArrayList<>();
         list1.add(1);//singly
+        list1.add(2);//singly
 
         List<Integer> list2 = new LinkedList<>();
         list2.add(10);

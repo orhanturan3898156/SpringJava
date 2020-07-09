@@ -2,7 +2,7 @@ package Day23_Methods;
 
 public class Methods1 {
 
-    /*methods: grouping a series of statement to perform tasks
+    /*methods: grouping a series of statements/codes to perform tasks
 
     ***it is reusable and easy to maintain
     declaration of method;

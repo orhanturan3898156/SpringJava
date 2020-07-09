@@ -1,24 +1,28 @@
+import Day12_Recap_Scanner_Switch_Ternary.Scanner_Next;
 import org.w3c.dom.ls.LSOutput;
 
 import javax.crypto.spec.PSource;
+import java.time.LocalDate;
 import java.util.*;
 
 public class Self_Study {
+    //day18
+    //gift card 035
+    //Replit 047,056 back to look
 
 
     public static void main(String[] args) {
-        //day18
-        //gift card 035
-        //Replit 047,056 back to look
 
-        int[] numbers={1,2,3,4,5};
-        System.out.println(numbers);
-        System.out.println(Arrays.toString(numbers));
+        ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1, 1, 2, 2, 3, 3, 4, 4, 5, 5));
 
-        int[][] arr={{1,2,3},{4,5,6,7}};
-        System.out.println(Arrays.toString(arr));
-        System.out.println(Arrays.deepToString(arr));
+        Iterator<Integer> it=list.iterator();
+
+        while (it.hasNext()){
+
+        }
 
 
     }
+
+
 }

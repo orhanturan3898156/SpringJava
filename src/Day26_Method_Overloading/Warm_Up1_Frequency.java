@@ -37,7 +37,7 @@ public class Warm_Up1_Frequency {
     }
     public static int frequency(String str, char ch){
         int count=0;
-        char[] arr=str.toCharArray();
+        char[] arr=str.toCharArray();//A,A,A
         for (int each:arr){
             if (each==ch){
                 count++;

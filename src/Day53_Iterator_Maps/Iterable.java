@@ -18,7 +18,5 @@ public class Iterable {
      remove(): removes the current
 
 
-
-
      */
 }

@@ -3,6 +3,7 @@ package Day52_Collection;
 import Day48_Abstraction.Interface3;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.TreeSet;
 
 public class null_Keyword {
@@ -17,7 +18,7 @@ public class null_Keyword {
         // System.out.println(str.toUpperCase()); //NullPointerException runtime exception(unchecked)
         System.out.println(str.charAt(1));
 
-        // System.out.println(list.get(1));//NullPointerException
+       // System.out.println(list.get(1));//NullPointerException
         //NullPointerException : when you see this exception, that means you most probably did not initiate the variable.
 
         String str2 = null; //returns null
@@ -34,6 +35,7 @@ public class null_Keyword {
         System.out.println("=======================================================");
 
         String[] arr = {null, "CyberTek", null};
+        System.out.println(Arrays.toString(arr));
         //arr[2].toUpperCase();//null is not object of string that's why it will gives you exception.
 
         String name1 = "cybertek".toUpperCase();
