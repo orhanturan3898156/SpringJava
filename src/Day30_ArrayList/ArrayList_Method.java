@@ -9,6 +9,7 @@ public class ArrayList_Method {
         list1.add(5);
         list1.add(7);
         list1.add(8);
+        System.out.println(list1);
 
         list1.add(1, 6);
 

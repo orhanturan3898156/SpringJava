@@ -7,8 +7,10 @@ public class ArrayList_Methods2_Remove_Clear {
         ArrayList<String> list = new ArrayList<>();
         list.add("A");
         list.add("B");
+
         list.add("C");
         list.add("D");
+
 
         //list.remove(1);
         String str = "B";
@@ -35,9 +37,9 @@ public class ArrayList_Methods2_Remove_Clear {
         list2.add(1);
         list2.add(1);
         list2.add(2);
-        list2.add(3);
+        list2.add(30);
 
-        int num1=list2.indexOf(1);
+        int num1=list2.indexOf(30);
         System.out.println(num1);
 
         int num2=list2.indexOf(100);

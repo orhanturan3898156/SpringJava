@@ -10,6 +10,7 @@ public class Value_of_Method {
 
         String str = "123";
         Integer a = Integer.valueOf(str); //returns wrapper class
+
         System.out.println(a + 1);
 
         double b = Integer.valueOf(str);
@@ -30,7 +31,7 @@ public class Value_of_Method {
 
         int z1 = 2000;
         Short sh1 = 3000;
-        int z2 = sh1;
+        int z2 = sh1;//3000
         System.out.println("==========================================");
 
         String r1="Today is Monday"; //if you give anything other than true, returns false. same with parse method
@@ -62,7 +63,8 @@ public class Value_of_Method {
         int[] arr=new int[3];
         System.out.println(Arrays.toString(arr));
 
-        Boolean[] arr2=new Boolean[3];
+        Integer[] arr2=new Integer[3];
+
         //Integer ,Double >>whatever you give will returns [null,null,null]
         //All of wrapper classes' default values are null.
         /*

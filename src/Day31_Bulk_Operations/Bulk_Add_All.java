@@ -30,8 +30,8 @@ public class Bulk_Add_All {
 
         System.out.println("===================================================================");
 
-        Integer[] numbers={1,2,3,4,5,6,7,8,9,10};
-        ArrayList<Integer> numList=new ArrayList<>(Arrays.asList(numbers));
+        Integer[] numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        ArrayList<Integer> numList = new ArrayList<>(Arrays.asList(numbers));
         System.out.println(numList);
 
 

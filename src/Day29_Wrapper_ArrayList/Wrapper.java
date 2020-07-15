@@ -25,7 +25,7 @@ public class Wrapper {
 
 
         short s1 = 200;
-        int n1 = s1;
+        int n1 = s1;//200
 
 
         //Integer N1=s1; //>>doesnt accept
@@ -46,6 +46,8 @@ public class Wrapper {
 
         Byte B1 = 126;
         int a3 = B1;
+
+
 
         System.out.println(a3);
 

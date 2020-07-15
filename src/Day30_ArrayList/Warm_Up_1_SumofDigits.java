@@ -33,6 +33,7 @@ public class Warm_Up_1_SumofDigits {
                 sum+=Integer.parseInt(""+each);
             }
 
+
         }
         System.out.println(sum);
 

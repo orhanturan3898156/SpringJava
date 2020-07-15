@@ -17,6 +17,7 @@ public class Bulk_Remove_All {
         /*Integer a = 1; >>if you do this it will remove will only remove first one
         list.remove(a);
         System.out.println(list);*/
+
         list.removeAll(Arrays.asList(1, 3, 5, 8));
         System.out.println(list);
 
@@ -26,6 +27,7 @@ public class Bulk_Remove_All {
 
         System.out.println("=================================================================");
         String[] names={"Ahmet","John","Aaron","Ahmet","Daniel"};
+
         ArrayList<String> nameList=new ArrayList<>(Arrays.asList(names));
         System.out.println(nameList);
         nameList.removeAll(Arrays.asList("Ahmet"));

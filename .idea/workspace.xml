@@ -3,20 +3,26 @@
   <component name="ChangeListManager">
     <list default="true" id="a56f75e8-3e88-4eeb-83fe-5d7adf9ea8b9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day24_Methods/Warm_Up4_Birth_Year.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day24_Methods/Warm_Up4_Birth_Year.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day52_Collection/Lists.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day52_Collection/Lists.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day52_Collection/null_Keyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day52_Collection/null_Keyword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day54_Maps/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day54_Maps/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day29_Wrapper_ArrayList/Auto_Unboxing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day29_Wrapper_ArrayList/Auto_Unboxing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day29_Wrapper_ArrayList/Value_of_Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day29_Wrapper_ArrayList/Value_of_Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day29_Wrapper_ArrayList/Wrapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day29_Wrapper_ArrayList/Wrapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day30_ArrayList/ArrayList_Method.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day30_ArrayList/ArrayList_Method.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day30_ArrayList/ArrayList_Methods2_Remove_Clear.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day30_ArrayList/ArrayList_Methods2_Remove_Clear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day30_ArrayList/Warm_Up_1_SumofDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day30_ArrayList/Warm_Up_1_SumofDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Day31_Bulk_Operations/Bulk_Remove_All.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Day31_Bulk_Operations/Bulk_Remove_All.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Interview_Prep/Q27_Remove_Wor_from_Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Interview_Prep/Q27_Remove_Wor_from_Array.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/SpringJava/Self_Study.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SpringJava/Self_Study.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day23_Methods/Methods1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day23_Methods/Methods1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day24_Methods/Warm_Up4_Birth_Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day24_Methods/Warm_Up4_Birth_Year.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day26_Method_Overloading/Warm_Up1_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day26_Method_Overloading/Warm_Up1_Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day26_Method_Overloading/Warm_Up2_Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day26_Method_Overloading/Warm_Up2_Unique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/TIME.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_Day_and_Time/TIME.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day28_Day_and_Time/Time_Formatting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day28_Day_and_Time/test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day52_Collection/Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day52_Collection/Lists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day52_Collection/null_Keyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day52_Collection/null_Keyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day53_Iterator_Maps/Iterable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day53_Iterator_Maps/Iterable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Auto_Unboxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Auto_Unboxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Value_of_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Value_of_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day29_Wrapper_ArrayList/Wrapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Method.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Method.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Methods2_Remove_Clear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_ArrayList/ArrayList_Methods2_Remove_Clear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day30_ArrayList/Warm_Up_1_SumofDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day30_ArrayList/Warm_Up_1_SumofDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day31_Bulk_Operations/Bulk_Add_All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_Bulk_Operations/Bulk_Add_All.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day31_Bulk_Operations/Bulk_Remove_All.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day31_Bulk_Operations/Bulk_Remove_All.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Age_Group_Practice_of_Else_If.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/If_Statement_Without_Curry_Brace.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day9_Nested_If_And_Ternary/Nested_If.java" afterDir="false" />
@@ -67,9 +73,48 @@
     <property name="full.screen.before.presentation.mode" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.Q27_Remove_Wor_from_Array">
-    <configuration name="A_Howto_Reverse_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview_Prep.A_Howto_Reverse_Numbers" />
+  <component name="RunManager" selected="Application.Q29_AscendingOrder_NoSort">
+    <configuration name="Bulk_Remove_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Bulk_Remove_All" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day31_Bulk_Operations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bulk_Retain_All" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Bulk_Retain_All" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day31_Bulk_Operations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Contains_Clear_Empty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day31_Bulk_Operations.Contains_Clear_Empty" />
+      <module name="SpringJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day31_Bulk_Operations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q28_ArrayList_Removing_Values" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview_Prep.Q28_ArrayList_Removing_Values" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
@@ -81,47 +126,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q25_Armstrong_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview_Prep.Q25_Armstrong_Numbers" />
-      <module name="SpringJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interview_Prep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q26_Reverse_Negative_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview_Prep.Q26_Reverse_Negative_Number" />
-      <module name="SpringJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interview_Prep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q27_Remove_Wor_from_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview_Prep.Q27_Remove_Wor_from_Array" />
-      <module name="SpringJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interview_Prep.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q5_Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interview_Prep.Q5_Reverse" />
+    <configuration name="Q29_AscendingOrder_NoSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interview_Prep.Q29_AscendingOrder_NoSort" />
       <module name="SpringJava" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q27_Remove_Wor_from_Array" />
-        <item itemvalue="Application.A_Howto_Reverse_Numbers" />
-        <item itemvalue="Application.Q26_Reverse_Negative_Number" />
-        <item itemvalue="Application.Q5_Reverse" />
-        <item itemvalue="Application.Q25_Armstrong_Numbers" />
+        <item itemvalue="Application.Q29_AscendingOrder_NoSort" />
+        <item itemvalue="Application.Q28_ArrayList_Removing_Values" />
+        <item itemvalue="Application.Contains_Clear_Empty" />
+        <item itemvalue="Application.Bulk_Retain_All" />
+        <item itemvalue="Application.Bulk_Remove_All" />
       </list>
     </recent_temporary>
   </component>
@@ -563,52 +569,52 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="566" y="390" key="Github.Dialog.Accounts.Choose/0.0.1440.900@0.0.1440.900" timestamp="1587643577201" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom" timestamp="1594336944138">
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom" timestamp="1594775123437">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594336944138" />
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594775123437" />
     <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1593735770595" />
     <state width="982" height="131" key="GridCell.Tab.0.bottom/0.23.1440.803@0.23.1440.803" timestamp="1590609828873" />
     <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1593443355515" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593869682009" />
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1594471526975" />
     <state width="1878" height="166" key="GridCell.Tab.0.bottom/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784627" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593867791080" />
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1594475224396" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104150" />
     <state width="1398" height="162" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155013" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center" timestamp="1594336944136">
+    <state width="1398" height="165" key="GridCell.Tab.0.center" timestamp="1594775123435">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="165" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594336944136" />
+    <state width="1398" height="165" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594775123435" />
     <state width="1398" height="165" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1593735770593" />
     <state width="982" height="131" key="GridCell.Tab.0.center/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="165" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1593443355512" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593869682006" />
+    <state width="1398" height="165" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1594471526972" />
     <state width="1878" height="166" key="GridCell.Tab.0.center/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784624" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593867791073" />
+    <state width="1398" height="165" key="GridCell.Tab.0.center/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1594475224392" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104141" />
     <state width="1398" height="162" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155010" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left" timestamp="1594336944135">
+    <state width="1398" height="165" key="GridCell.Tab.0.left" timestamp="1594775123433">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="165" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594336944135" />
+    <state width="1398" height="165" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594775123433" />
     <state width="1398" height="165" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1593735770592" />
     <state width="982" height="131" key="GridCell.Tab.0.left/0.23.1440.803@0.23.1440.803" timestamp="1590609828871" />
     <state width="1398" height="165" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1593443355510" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593869682005" />
+    <state width="1398" height="165" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1594471526969" />
     <state width="1878" height="166" key="GridCell.Tab.0.left/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784620" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593867791071" />
+    <state width="1398" height="165" key="GridCell.Tab.0.left/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1594475224388" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104139" />
     <state width="1398" height="162" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155009" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right" timestamp="1594336944137">
+    <state width="1398" height="165" key="GridCell.Tab.0.right" timestamp="1594775123436">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="165" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594336944137" />
+    <state width="1398" height="165" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594775123436" />
     <state width="1398" height="165" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1593735770594" />
     <state width="982" height="131" key="GridCell.Tab.0.right/0.23.1440.803@0.23.1440.803" timestamp="1590609828872" />
     <state width="1398" height="165" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1593443355513" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593869682008" />
+    <state width="1398" height="165" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1594471526974" />
     <state width="1878" height="166" key="GridCell.Tab.0.right/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591455784625" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593867791075" />
+    <state width="1398" height="165" key="GridCell.Tab.0.right/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1594475224394" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1587957104145" />
     <state width="1398" height="162" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.800@0.23.1440.800" timestamp="1587957155011" />
     <state width="1398" height="193" key="GridCell.Tab.1.bottom" timestamp="1593779963220">
@@ -643,14 +649,14 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="473" y="178" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1591236171286" />
-    <state x="229" y="42" key="SettingsEditor" timestamp="1593879968031">
+    <state x="229" y="42" key="SettingsEditor" timestamp="1594464930667">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="42" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593879968031" />
     <state x="229" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1593390620018" />
     <state x="229" y="60" key="SettingsEditor/0.23.1440.800@0.23.1440.800" timestamp="1593514225321" />
     <state x="229" y="60" key="SettingsEditor/0.23.1440.803@0.23.1440.803" timestamp="1587608807179" />
-    <state x="229" y="42" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1593860084179" />
+    <state x="229" y="42" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1594464930667" />
     <state x="1745" y="50" key="SettingsEditor/1440.0.1920.1080/0.0.1440.900@1440.0.1920.1080" timestamp="1591449255022" />
     <state x="1745" y="50" key="SettingsEditor/1440.0.1920.1080/0.23.1440.877@1440.0.1920.1080" timestamp="1589074911328" />
     <state x="229" y="42" key="SettingsEditor/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1593270542687" />
